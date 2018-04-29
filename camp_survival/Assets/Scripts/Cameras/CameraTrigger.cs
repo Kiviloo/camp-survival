@@ -6,7 +6,7 @@ using UnityEngine;
 public class CameraTrigger : MonoBehaviour {
 
 
-	void Update () {
+	void LateUpdate () {
 
 		FindObjectOfType<Cameras> ().FollowingCam (FindObjectOfType<Cameras>().camera, FindObjectOfType<Cameras>().ziel);
 	}
