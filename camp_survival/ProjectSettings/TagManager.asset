@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BG
+  - Trees
+  - Clouds
+  - Sky
+  - Extra1
+  - Extra2
+  - Mountains
+  - Cameras
+  - _defaultObject
   layers:
   - Default
   - TransparentFX
