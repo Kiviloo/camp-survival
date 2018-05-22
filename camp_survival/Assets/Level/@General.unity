@@ -2055,6 +2055,7 @@ GameObject:
   - component: {fileID: 1679862353}
   - component: {fileID: 1679862355}
   - component: {fileID: 1679862354}
+  - component: {fileID: 1679862356}
   m_Layer: 0
   m_Name: CameraManager
   m_TagString: Untagged
@@ -2099,6 +2100,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   camera: []
   ziel: []
+--- !u!114 &1679862356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1679862352}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1e07b20865db644baf49cf4f4de25a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectBG: {fileID: 0}
+  objectSky: {fileID: 0}
+  objectClouds: {fileID: 0}
+  objectMountains: {fileID: 0}
+  objectTrees: {fileID: 0}
 --- !u!1 &1850482195
 GameObject:
   m_ObjectHideFlags: 0
@@ -2144,7 +2161,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1863900072
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2161,6 +2178,7 @@ RectTransform:
   - {fileID: 1408722205}
   - {fileID: 582894467}
   - {fileID: 513750821}
+  - {fileID: 2079472983}
   m_Father: {fileID: 1349647175}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2428,6 +2446,95 @@ RectTransform:
   m_AnchoredPosition: {x: -6.4533043, y: 0.20490646}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &2079472982
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 2079472983}
+  - component: {fileID: 2079472985}
+  - component: {fileID: 2079472984}
+  - component: {fileID: 2079472986}
+  m_Layer: 5
+  m_Name: TextTimer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2079472983
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2079472982}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1863900072}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 499, y: -85}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2079472984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2079472982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 0.7614604, b: 0.6911765, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 225
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 2
+    m_MaxSize: 250
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 1
+    m_VerticalOverflow: 1
+    m_LineSpacing: 1
+  m_Text: 00
+--- !u!222 &2079472985
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2079472982}
+--- !u!114 &2079472986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2079472982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: 10, y: -10}
+  m_UseGraphicAlpha: 1
 --- !u!1 &2127366987
 GameObject:
   m_ObjectHideFlags: 0
@@ -2438,7 +2545,7 @@ GameObject:
   - component: {fileID: 2127366988}
   - component: {fileID: 2127366990}
   - component: {fileID: 2127366989}
-  - component: {fileID: 2127366991}
+  - component: {fileID: 2127366992}
   m_Layer: 0
   m_Name: Scripts
   m_TagString: Untagged
@@ -2481,7 +2588,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3b60fd7cfe9fc4478aaf0676743b578, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &2127366991
+--- !u!114 &2127366992
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -2489,11 +2596,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 2127366987}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d1e07b20865db644baf49cf4f4de25a2, type: 3}
+  m_Script: {fileID: 11500000, guid: efb6f9f426f6cac42929f05dfbf47596, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectBG: {fileID: 0}
-  objectSky: {fileID: 0}
-  objectClouds: {fileID: 0}
-  objectMountains: {fileID: 0}
-  objectTrees: {fileID: 0}
+  activate: 1
+  timerText: {fileID: 2079472984}
+  howLong: 5
