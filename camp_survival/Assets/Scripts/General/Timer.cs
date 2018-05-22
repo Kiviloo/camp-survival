@@ -5,28 +5,35 @@ using UnityEngine;
 
 public class Timer : MonoBehaviour {
 
+	private int once = 0;
 	public bool activate;
 	public Text timerText;
 	public int howLong;
 	private float startTime;
 
+
 	private double time;
 
 	void Start () {
-
+		
 		startTime = Time.time;
 	}
 	
-	// Update is called once per frame
-	void Update () {
 
-		if (activate == true && GameObject.Find ("Canvas").activeSelf == true) {
+	void LateUpdate () {
+
+		if (activate == true && GameObject.Find ("CanvasEnde").GetComponent<Canvas>().enabled) {
+
+			if (once == 0) {
+				startTime = Time.time;
+				once = 1;
+				timerText.enabled = true;
+			}
 
 			float t = Time.time - startTime;
 			int check = ((int)((howLong - (t % 60)) + 1));
 			string output = ((int)((howLong - (t % 60))) + 1).ToString ();
 			timerText.text = output;
-
 			if (check == 0) {
 
 				timerText.enabled = false;

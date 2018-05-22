@@ -168,9 +168,9 @@ PlayableDirector:
   m_GameObject: {fileID: 47148512}
   m_Enabled: 1
   serializedVersion: 3
-  m_PlayableAsset: {fileID: 11400000, guid: dc691d8d4c440d544aa5fb097f41f593, type: 2}
+  m_PlayableAsset: {fileID: 11400000, guid: 51cae1a4103c49240b27cb25a75bf90e, type: 2}
   m_InitialState: 1
-  m_WrapMode: 2
+  m_WrapMode: 0
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
   m_SceneBindings:
@@ -180,6 +180,24 @@ PlayableDirector:
     value: {fileID: 616725824}
   - key: {fileID: 114458456419061890, guid: dc691d8d4c440d544aa5fb097f41f593, type: 2}
     value: {fileID: 1034485545}
+  - key: {fileID: 0}
+    value: {fileID: 47148512}
+  - key: {fileID: 0}
+    value: {fileID: 0}
+  - key: {fileID: 114429670254153792, guid: 51cae1a4103c49240b27cb25a75bf90e, type: 2}
+    value: {fileID: 47148512}
+  - key: {fileID: 114750773558087390, guid: 51cae1a4103c49240b27cb25a75bf90e, type: 2}
+    value: {fileID: 616725824}
+  - key: {fileID: 114645957858988050, guid: 51cae1a4103c49240b27cb25a75bf90e, type: 2}
+    value: {fileID: 1034485545}
+  - key: {fileID: 0}
+    value: {fileID: 1034485545}
+  - key: {fileID: 114528814815477074, guid: 51cae1a4103c49240b27cb25a75bf90e, type: 2}
+    value: {fileID: 1034485545}
+  - key: {fileID: 114473723497893608, guid: 51cae1a4103c49240b27cb25a75bf90e, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 114396311625754982, guid: 51cae1a4103c49240b27cb25a75bf90e, type: 2}
+    value: {fileID: 0}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &119669854
@@ -219,6 +237,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 123558457}
+  - component: {fileID: 123558458}
   m_Layer: 0
   m_Name: ReyAnim
   m_TagString: Untagged
@@ -239,6 +258,23 @@ Transform:
   m_Father: {fileID: 119669855}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &123558458
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 123558456}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &135413478
 GameObject:
   m_ObjectHideFlags: 0
@@ -428,6 +464,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 422239740}
+  - component: {fileID: 422239741}
   m_Layer: 0
   m_Name: BonnyAnim
   m_TagString: Untagged
@@ -448,6 +485,23 @@ Transform:
   m_Father: {fileID: 1198637017}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &422239741
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 422239739}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &464505719
 GameObject:
   m_ObjectHideFlags: 0
@@ -671,6 +725,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 532317639}
+  - component: {fileID: 532317640}
   m_Layer: 0
   m_Name: MayaAnim
   m_TagString: Untagged
@@ -691,6 +746,23 @@ Transform:
   m_Father: {fileID: 888240313}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &532317640
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 532317638}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &535261346
 GameObject:
   m_ObjectHideFlags: 0
@@ -891,7 +963,7 @@ Animator:
   m_GameObject: {fileID: 616725824}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e8ef6d7b221fd3547b4da0b30df8bc2a, type: 2}
+  m_Controller: {fileID: 9100000, guid: ccc1b0d54fae5bf4fa0f44bb3c0da0ea, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1395,8 +1467,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 126bd6c2ae3ac7349b7bcacbc489f05e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canvas1: {fileID: 0}
-  timeline: {fileID: 0}
+  canvas1: {fileID: 1863900075}
+  timeline: {fileID: 47148515}
 --- !u!1 &1034485545
 GameObject:
   m_ObjectHideFlags: 0
@@ -1435,7 +1507,7 @@ Animator:
   m_GameObject: {fileID: 1034485545}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e8ef6d7b221fd3547b4da0b30df8bc2a, type: 2}
+  m_Controller: {fileID: 9100000, guid: ccc1b0d54fae5bf4fa0f44bb3c0da0ea, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2156,7 +2228,7 @@ GameObject:
   - component: {fileID: 1863900074}
   - component: {fileID: 1863900073}
   m_Layer: 0
-  m_Name: Canvas
+  m_Name: CanvasEnde
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2601,4 +2673,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   activate: 1
   timerText: {fileID: 2079472984}
-  howLong: 5
+  howLong: 10

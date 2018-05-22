@@ -40,7 +40,7 @@ public class BGandParallex : MonoBehaviour {
 	public GameObject objectMountains;
 	public GameObject objectTrees;
 
-	private float parallaxSkySpeed = 0.1f;
+	private float parallaxSkySpeed = 0.9f;
 	private float parallaxMountainsSpeed = 0.3f;
 	private float parallaxCloudsSpeed = 0.8f;
 	private float parallaxTreesSpeed = -0.5f;
