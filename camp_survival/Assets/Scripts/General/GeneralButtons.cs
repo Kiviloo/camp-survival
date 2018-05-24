@@ -16,4 +16,9 @@ public class GeneralButtons : MonoBehaviour {
 
 		SceneManager.LoadScene ("MainMenu", LoadSceneMode.Single);
 	}
+
+	public void OnQuit() {
+
+		Application.Quit ();
+	}
 }
