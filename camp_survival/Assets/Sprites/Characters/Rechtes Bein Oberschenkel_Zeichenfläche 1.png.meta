@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 7c1f644c56a9b4a4280eb894a7b48c07
+timeCreated: 1527253332
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_0"
+    21300002: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_1"
+    21300004: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_2"
+    21300006: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_3"
+    21300008: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_4"
+    21300010: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_5"
+    21300012: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_6"
+    21300014: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_7"
+    21300016: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_8"
+    21300018: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_9"
+    21300020: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_10"
+    21300022: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_11"
+    21300024: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_12"
+    21300026: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_13"
+    21300028: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_14"
+    21300030: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_15"
+    21300032: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_16"
+    21300034: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_17"
+    21300036: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_18"
+    21300038: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_19"
+    21300040: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_20"
+    21300042: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_21"
+    21300044: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_22"
+    21300046: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_23"
+    21300048: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_24"
+    21300050: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_25"
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_0"
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 968
+        width: 637
+        height: 2026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_1"
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 938
+        width: 643
+        height: 2032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_2"
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 938
+        width: 643
+        height: 2028
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_3"
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 938
+        width: 637
+        height: 2031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_4"
+      rect:
+        serializedVersion: 2
+        x: 6266
+        y: 937
+        width: 641
+        height: 2032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_5"
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 563
+        width: 219
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_6"
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 568
+        width: 109
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_7"
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 688
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_8"
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 563
+        width: 112
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_9"
+      rect:
+        serializedVersion: 2
+        x: 5156
+        y: 568
+        width: 173
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_10"
+      rect:
+        serializedVersion: 2
+        x: 6526
+        y: 562
+        width: 124
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_11"
+      rect:
+        serializedVersion: 2
+        x: 6666
+        y: 568
+        width: 102
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_12"
+      rect:
+        serializedVersion: 2
+        x: 6861
+        y: 693
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_13"
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 516
+        width: 115
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_14"
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 565
+        width: 99
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_15"
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 522
+        width: 61
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_16"
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 563
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_17"
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 568
+        width: 105
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_18"
+      rect:
+        serializedVersion: 2
+        x: 4266
+        y: 563
+        width: 111
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_19"
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 516
+        width: 109
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_20"
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 565
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_21"
+      rect:
+        serializedVersion: 2
+        x: 5432
+        y: 516
+        width: 115
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_22"
+      rect:
+        serializedVersion: 2
+        x: 5545
+        y: 562
+        width: 96
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_23"
+      rect:
+        serializedVersion: 2
+        x: 6787
+        y: 568
+        width: 66
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_24"
+      rect:
+        serializedVersion: 2
+        x: 6862
+        y: 568
+        width: 31
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Rechtes Bein Oberschenkel_Zeichenfl\xE4che 1_25"
+      rect:
+        serializedVersion: 2
+        x: 6908
+        y: 565
+        width: 82
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
