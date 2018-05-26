@@ -13,6 +13,7 @@ TagManager:
   - Mountains
   - Cameras
   - _defaultObject
+  - Voice
   layers:
   - Default
   - TransparentFX
