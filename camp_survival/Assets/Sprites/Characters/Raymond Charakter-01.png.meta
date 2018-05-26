@@ -3,7 +3,30 @@ guid: 2821adb2c12bdbe47ade6a78fc19231e
 timeCreated: 1527258039
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Raymond Charakter-01_0
+    21300002: Raymond Charakter-01_1
+    21300004: Raymond Charakter-01_2
+    21300006: Raymond Charakter-01_3
+    21300008: Raymond Charakter-01_4
+    21300010: Raymond Charakter-01_5
+    21300012: Raymond Charakter-01_6
+    21300014: Raymond Charakter-01_7
+    21300016: Raymond Charakter-01_8
+    21300018: Raymond Charakter-01_9
+    21300020: Raymond Charakter-01_10
+    21300022: Raymond Charakter-01_11
+    21300024: Raymond Charakter-01_12
+    21300026: Raymond Charakter-01_13
+    21300028: Raymond Charakter-01_14
+    21300030: Raymond Charakter-01_15
+    21300032: Raymond Charakter-01_16
+    21300034: Raymond Charakter-01_17
+    21300036: Raymond Charakter-01_18
+    21300038: Raymond Charakter-01_19
+    21300040: Raymond Charakter-01_20
+    21300042: Raymond Charakter-01_21
+    21300044: Raymond Charakter-01_22
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +63,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,9 +90,351 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Raymond Charakter-01_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2095
+        width: 270
+        height: 325
+      alignment: 9
+      pivot: {x: 0.48394516, y: 0.19322792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2350
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2352
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_3
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2149
+        width: 213
+        height: 211
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.28428614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_4
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2288
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_5
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2295
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2232
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2186
+        width: 70
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1542
+        width: 133
+        height: 397
+      alignment: 9
+      pivot: {x: 0.59777796, y: 0.8876231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1596
+        width: 124
+        height: 371
+      alignment: 9
+      pivot: {x: 0.39512536, y: 0.8446828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_10
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1487
+        width: 453
+        height: 583
+      alignment: 9
+      pivot: {x: 0.49521554, y: 0.079901196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1103
+        width: 115
+        height: 364
+      alignment: 9
+      pivot: {x: 0.42461178, y: 0.8989466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1117
+        width: 111
+        height: 337
+      alignment: 9
+      pivot: {x: 0.5585789, y: 0.8537319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_13
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1128
+        width: 298
+        height: 267
+      alignment: 9
+      pivot: {x: 0.5072732, y: 0.272706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_14
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 938
+        width: 182
+        height: 567
+      alignment: 9
+      pivot: {x: 0.67863315, y: 0.9128405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_15
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 955
+        width: 174
+        height: 552
+      alignment: 9
+      pivot: {x: 0.2757856, y: 0.9005001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 733
+        width: 140
+        height: 208
+      alignment: 9
+      pivot: {x: 0.2522958, y: 0.8230274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_17
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 690
+        width: 128
+        height: 194
+      alignment: 9
+      pivot: {x: 0.7370608, y: 0.846339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_18
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 493
+        width: 220
+        height: 562
+      alignment: 9
+      pivot: {x: 0.578815, y: 0.8933737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_19
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 479
+        width: 214
+        height: 543
+      alignment: 9
+      pivot: {x: 0.35820678, y: 0.88318896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_20
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 562
+        width: 245
+        height: 270
+      alignment: 9
+      pivot: {x: 0.74770457, y: 0.821098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_21
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 583
+        width: 247
+        height: 268
+      alignment: 9
+      pivot: {x: 0.23675166, y: 0.8154069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Raymond Charakter-01_22
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 199
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 
