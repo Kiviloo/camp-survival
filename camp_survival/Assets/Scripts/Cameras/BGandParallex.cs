@@ -51,6 +51,15 @@ public class BGandParallex : MonoBehaviour {
 
 	private int leftIndex;
 	private int rightIndex;
+	private int leftIndexS;
+	private int rightIndexS;
+	private int leftIndexM;
+	private int rightIndexM;
+	private int leftIndexT;
+	private int rightIndexT;
+	private int leftIndexC;
+	private int rightIndexC;
+
 
 	private float area = 30;
 
@@ -151,12 +160,135 @@ public class BGandParallex : MonoBehaviour {
 			}
 		}
 
+		if (bgBool == false) {
+
+			bg = new Transform[parentDefault.transform.childCount];
+
+			for (int i = 0; i < parentDefault.transform.childCount; i++) {
+
+				bg [i] = parentDefault.transform.GetChild (i);
+			}
+		}
+
+		if (skyBool == false) {
+
+			sky = new Transform[parentDefault.transform.childCount];
+
+			for (int i = 0; i < parentDefault.transform.childCount; i++) {
+
+				sky [i] = parentDefault.transform.GetChild (i);
+			}
+		}
+
+		if (mountainsBool == false) {
+
+			mountains = new Transform[parentDefault.transform.childCount];
+
+			for (int i = 0; i < parentDefault.transform.childCount; i++) {
+
+				mountains [i] = parentDefault.transform.GetChild (i);
+			}
+		}
+
+
+		if (cloudsBool == false) {
+
+			clouds = new Transform[parentDefault.transform.childCount];
+
+			for (int i = 0; i < parentDefault.transform.childCount; i++) {
+
+				clouds [i] = parentDefault.transform.GetChild (i);
+			}
+		}
+
+		if (treesBool == false) {
+
+			trees = new Transform[parentDefault.transform.childCount];
+
+			for (int i = 0; i < parentDefault.transform.childCount; i++) {
+
+				trees [i] = parentDefault.transform.GetChild (i);
+			}
+		}
+
 		leftIndex = 0;
 		rightIndex = bg.Length - 1;
+		leftIndexM = 0;
+		rightIndexM = mountains.Length - 1;
+		leftIndexS = 0;
+		rightIndexS = sky.Length - 1;
+		leftIndexT = 0;
+		rightIndexT = trees.Length - 1;
+		leftIndexC = 0;
+		rightIndexC = clouds.Length - 1;
 
 	}
 
+	void LeftC() {
 
+		if (cloudsBool == true) {
+
+			Vector3 cloudsHeight = new Vector3(0, clouds[leftIndexC].position.y, 0);
+			clouds [rightIndexC].position = Vector3.right * (clouds [leftIndexC].position.x - widthClouds) + cloudsHeight;
+		}
+
+		leftIndexC = rightIndexC;
+		rightIndexC--;
+
+		if(rightIndexC < 0) {
+			rightIndexC = clouds.Length-1;
+		}
+	}
+
+	void LeftS() {
+
+
+		if (skyBool == true) {
+
+			Vector3 skyHeight = new Vector3(0, sky[leftIndex].position.y, 0);
+			sky [rightIndex].position = Vector3.right * (sky [leftIndex].position.x - widthSky) + skyHeight;
+		}
+
+		leftIndexS = rightIndexS;
+		rightIndexS--;
+
+		if(rightIndexS < 0) {
+			rightIndexS = sky.Length-1;
+		}
+	}
+
+	void LeftM() {
+
+		if (mountainsBool == true) {
+
+			Vector3 mountainsHeight = new Vector3(0, mountains[leftIndex].position.y, 0);
+			mountains [rightIndex].position = Vector3.right * (mountains [leftIndex].position.x - widthMountains) + mountainsHeight;
+		}
+
+		leftIndexM = rightIndexM;
+		rightIndexM--;
+
+		if(rightIndexM < 0) {
+			rightIndexM = mountains.Length-1;
+		}
+	}
+
+	void LeftT() {
+
+		if (treesBool == true) {
+
+			Vector3 treesHeight = new Vector3(0, trees[leftIndexT].position.y, 0);
+			trees [rightIndexT].position = Vector3.right * (trees [leftIndexT].position.x - widthTrees) + treesHeight;
+		}
+
+		leftIndexT = rightIndexT;
+		rightIndexT--;
+
+		if(rightIndexT < 0) {
+			rightIndexT = trees.Length-1;
+		}
+	}
+		
 	void Left() {
 
 		if (bgBool == true) {
@@ -165,30 +297,6 @@ public class BGandParallex : MonoBehaviour {
 			bg [rightIndex].position = Vector3.right * (bg [leftIndex].position.x - widthBG) + bgHeight;
 		}
 
-		if (treesBool == true) {
-
-			Vector3 treesHeight = new Vector3(0, trees[leftIndex].position.y, 0);
-			trees [rightIndex].position = Vector3.right * (trees [leftIndex].position.x - widthTrees) + treesHeight;
-		}
-
-		if (skyBool == true) {
-
-			Vector3 skyHeight = new Vector3(0, sky[leftIndex].position.y, 0);
-			sky [rightIndex].position = Vector3.right * (sky [leftIndex].position.x - widthSky) + skyHeight;
-		}
-
-		if (cloudsBool == true) {
-
-			Vector3 cloudsHeight = new Vector3(0, clouds[leftIndex].position.y, 0);
-			clouds [rightIndex].position = Vector3.right * (clouds [leftIndex].position.x - widthClouds) + cloudsHeight;
-		}
-
-		if (mountainsBool == true) {
-
-			Vector3 mountainsHeight = new Vector3(0, mountains[leftIndex].position.y, 0);
-			mountains [rightIndex].position = Vector3.right * (mountains [leftIndex].position.x - widthMountains) + mountainsHeight;
-		}
-			
 		leftIndex = rightIndex;
 		rightIndex--;
 
@@ -198,19 +306,23 @@ public class BGandParallex : MonoBehaviour {
 	}
 
 
-	void Right() {
+	void RightC() {
 
-		if (bgBool == true) {
+		if (cloudsBool == true) {
 
-			Vector3 bgHeight = new Vector3(0, bg[leftIndex].position.y, 0);
-			bg [leftIndex].position = Vector3.right * (bg [rightIndex].position.x + widthBG) + bgHeight;
+			Vector3 cloudsHeight = new Vector3(0, clouds[leftIndexC].position.y, 0);
+			clouds [leftIndexC].position = Vector3.right * (clouds [rightIndexC].position.x + widthClouds) + cloudsHeight;
 		}
 
-		if (treesBool == true) {
+		rightIndexC = leftIndexC;
+		leftIndexC++;
 
-			Vector3 treesHeight = new Vector3(0, trees[leftIndex].position.y, 0);
-			trees [leftIndex].position = Vector3.right * (trees [rightIndex].position.x + widthTrees) + treesHeight;
+		if (leftIndexC == clouds.Length) {
+			leftIndexC = 0;
 		}
+	}
+
+	void RightS() {
 
 		if (skyBool == true) {
 
@@ -218,16 +330,52 @@ public class BGandParallex : MonoBehaviour {
 			sky [leftIndex].position = Vector3.right * (sky [rightIndex].position.x + widthSky) + skyHeight;
 		}
 
-		if (cloudsBool == true) {
+		rightIndexS = leftIndexS;
+		leftIndexS++;
 
-			Vector3 cloudsHeight = new Vector3(0, clouds[leftIndex].position.y, 0);
-			clouds [leftIndex].position = Vector3.right * (clouds [rightIndex].position.x + widthClouds) + cloudsHeight;
+		if (leftIndexS == sky.Length) {
+			leftIndexS = 0;
 		}
+	}
+
+	void RightM() {
 
 		if (mountainsBool == true) {
 
 			Vector3 mountainsHeight = new Vector3(0, mountains[leftIndex].position.y, 0);
 			mountains [leftIndex].position = Vector3.right * (mountains [rightIndex].position.x + widthMountains) + mountainsHeight;
+		}
+
+		rightIndexM = leftIndexM;
+		leftIndexM++;
+
+		if (leftIndexM == mountains.Length) {
+			leftIndexM = 0;
+		}
+	}
+
+	void RightT() {
+
+		if (treesBool == true) {
+
+			Vector3 treesHeight = new Vector3(0, trees[leftIndexT].position.y, 0);
+			trees [leftIndexT].position = Vector3.right * (trees [rightIndexT].position.x + widthTrees) + treesHeight;
+		}
+
+		rightIndexT = leftIndexT;
+		leftIndexT++;
+
+		if (leftIndexT == trees.Length) {
+			leftIndexT = 0;
+		}
+	}
+
+	void Right() {
+
+		if (bgBool == true) {
+
+			Vector3 bgHeight = new Vector3(0, bg[leftIndex].position.y, 0);
+			bg [leftIndex].position = Vector3.right * (bg [rightIndex].position.x + widthBG) + bgHeight;
 		}
 
 		rightIndex = leftIndex;
@@ -274,6 +422,46 @@ public class BGandParallex : MonoBehaviour {
 		if (cameraTransform.position.x > (bg [rightIndex].transform.position.x - area)) {
 
 			Right ();
+		}
+
+		if (cameraTransform.position.x < (clouds [leftIndexC].transform.position.x + area)) {
+
+			LeftC ();
+		}
+
+		if (cameraTransform.position.x > (clouds [rightIndexC].transform.position.x - area)) {
+
+			RightC ();
+		}
+
+		if (cameraTransform.position.x < (trees [leftIndexT].transform.position.x + area)) {
+
+			LeftT ();
+		}
+
+		if (cameraTransform.position.x > (trees [rightIndexT].transform.position.x - area)) {
+
+			RightT ();
+		}
+
+		if (cameraTransform.position.x < (sky [leftIndexS].transform.position.x + area)) {
+
+			LeftS ();
+		}
+
+		if (cameraTransform.position.x > (sky [rightIndexS].transform.position.x - area)) {
+
+			RightS ();
+		}
+
+		if (cameraTransform.position.x < (mountains [leftIndexM].transform.position.x + area)) {
+
+			LeftM ();
+		}
+
+		if (cameraTransform.position.x > (mountains [rightIndexM].transform.position.x - area)) {
+
+			RightM ();
 		}
 	}
 }
