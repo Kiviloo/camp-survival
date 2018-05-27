@@ -3928,6 +3928,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   voiceOver:
   - {fileID: 8300000, guid: d76eca80997000e4a88397893d94ef86, type: 3}
+  - {fileID: 8300000, guid: b441d2f4dd51b494e95cd518916a330c, type: 3}
   - {fileID: 8300000, guid: 2d7acfe99915ae442adef45a900c3a10, type: 3}
   seconds:
   - 0
