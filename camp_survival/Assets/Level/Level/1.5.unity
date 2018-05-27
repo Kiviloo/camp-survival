@@ -7065,6 +7065,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1528964255}
   - component: {fileID: 1528964256}
+  - component: {fileID: 1528964257}
   m_Layer: 0
   m_Name: Voice
   m_TagString: Voice
@@ -7094,7 +7095,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 5e02d70793681e3478a4b60426be5ae5, type: 3}
+  m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -7140,7 +7141,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -7164,7 +7165,22 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
+--- !u!114 &1528964257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1528964254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de4d5ec8d8965c648b65a8ad0f1b0ecb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  voiceOver:
+  - {fileID: 8300000, guid: 3833cf7f0b6b53149ba2e6e369e3a068, type: 3}
+  seconds: []
+  audio: {fileID: 0}
 --- !u!1 &1533591955
 GameObject:
   m_ObjectHideFlags: 0

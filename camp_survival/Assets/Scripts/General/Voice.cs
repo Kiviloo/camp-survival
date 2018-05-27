@@ -7,7 +7,7 @@ public class Voice : MonoBehaviour {
 	public AudioClip[] voiceOver;
 	private AudioClip[] voices;
 	public float[] seconds;
-	public AudioSource audio;
+	private AudioSource audio;
 
 	void Start() {
 
