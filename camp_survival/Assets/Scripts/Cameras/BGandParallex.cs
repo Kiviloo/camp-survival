@@ -398,7 +398,6 @@ public class BGandParallex : MonoBehaviour {
 		}
 
 		cameraTransform = GameObject.FindGameObjectWithTag ("MainCamera").transform;
-		print (cameraTransform);
 
 		GameObject parentBG = GameObject.FindGameObjectWithTag ("BG");
 		GameObject parentSky = GameObject.FindGameObjectWithTag ("Sky");

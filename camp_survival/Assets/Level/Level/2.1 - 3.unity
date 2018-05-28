@@ -712,7 +712,7 @@ PlayableDirector:
   m_GameObject: {fileID: 47148512}
   m_Enabled: 1
   serializedVersion: 3
-  m_PlayableAsset: {fileID: 11400000, guid: 15d6d98a3ef94c147b314e75d20c263e, type: 2}
+  m_PlayableAsset: {fileID: 11400000, guid: a379eadf2741fbe4582032143468e473, type: 2}
   m_InitialState: 1
   m_WrapMode: 0
   m_DirectorUpdateMode: 1
@@ -748,6 +748,10 @@ PlayableDirector:
     value: {fileID: 0}
   - key: {fileID: 0}
     value: {fileID: 616725824}
+  - key: {fileID: 114396939160696240, guid: a379eadf2741fbe4582032143468e473, type: 2}
+    value: {fileID: 616725824}
+  - key: {fileID: 114776758236271838, guid: a379eadf2741fbe4582032143468e473, type: 2}
+    value: {fileID: 0}
   m_ExposedReferences:
     m_References: []
 --- !u!82 &47148516
@@ -4227,18 +4231,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 582894470}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1908850816}
-        m_MethodName: onButton3
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &582894470
@@ -5341,7 +5334,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 718165473}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4971d35d6dbc1564c85ca805e8349d2c, type: 3}
+  m_Script: {fileID: 11500000, guid: 008e44a833bda6a4d965842ca9444b03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &724802919
@@ -5960,18 +5953,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 821737496}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1908850816}
-        m_MethodName: onButton1
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &821737496
@@ -9741,18 +9723,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1408722208}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1908850816}
-        m_MethodName: onButton2
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1408722208
@@ -12760,7 +12731,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1797747577}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a4726dc7566331641a39d88382a2ce70, type: 3}
+  m_Script: {fileID: 11500000, guid: 01576f1c0586c4f408ee4b23d9bed66c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   panel: {fileID: 1797747580}
@@ -12771,7 +12742,7 @@ CanvasGroup:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1797747577}
   m_Enabled: 1
-  m_Alpha: 1
+  m_Alpha: 0
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
@@ -13891,7 +13862,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1908850814}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 034b5d67ed5460b47a6cd1f60a04a431, type: 3}
+  m_Script: {fileID: 11500000, guid: 6b7110ac4be944246b2bc8acb39916ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1911235432
@@ -14896,10 +14867,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   voiceOver:
-  - {fileID: 8300000, guid: 6ff47a07961368648804fc9ea434e308, type: 3}
-  - {fileID: 8300000, guid: 01672a05aeb4124448754cc544711807, type: 3}
-  seconds:
-  - 17
+  - {fileID: 8300000, guid: b8eafdbd47c3ac546ab5826f5b8cb7bb, type: 3}
+  seconds: []
 --- !u!1 &2137275431
 GameObject:
   m_ObjectHideFlags: 0
