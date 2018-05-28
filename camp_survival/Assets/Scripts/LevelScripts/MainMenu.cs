@@ -20,7 +20,7 @@ public class MainMenu : MonoBehaviour {
 
 	public void OnPlay ()  {
 
-		SceneManager.LoadScene ("TestLevel", LoadSceneMode.Single);
+		SceneManager.LoadScene ("1.1", LoadSceneMode.Single);
 	}
 
 
