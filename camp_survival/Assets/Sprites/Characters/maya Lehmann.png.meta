@@ -3,7 +3,32 @@ guid: 22447a12d42210d42a2e35d011060523
 timeCreated: 1527457268
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: maya Lehmann_0
+    21300002: maya Lehmann_1
+    21300004: maya Lehmann_2
+    21300006: maya Lehmann_3
+    21300008: maya Lehmann_4
+    21300010: maya Lehmann_5
+    21300012: maya Lehmann_6
+    21300014: maya Lehmann_7
+    21300016: maya Lehmann_8
+    21300018: maya Lehmann_9
+    21300020: maya Lehmann_10
+    21300022: maya Lehmann_11
+    21300024: maya Lehmann_12
+    21300026: maya Lehmann_13
+    21300028: maya Lehmann_14
+    21300030: maya Lehmann_15
+    21300032: maya Lehmann_16
+    21300034: maya Lehmann_17
+    21300036: maya Lehmann_18
+    21300038: maya Lehmann_19
+    21300040: maya Lehmann_20
+    21300042: maya Lehmann_21
+    21300044: maya Lehmann_22
+    21300046: maya Lehmann_23
+    21300048: maya Lehmann_24
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +65,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,9 +92,369 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: maya Lehmann_0
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 2091
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_1
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 2095
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1690
+        width: 86
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5984829, y: 0.8909026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_3
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1882
+        width: 135
+        height: 151
+      alignment: 9
+      pivot: {x: 0.47908708, y: 0.25694427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_4
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 2003
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_5
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 2007
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_6
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 1974
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_7
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 1902
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_8
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 1906
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_9
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 1815
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_10
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 1819
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1278
+        width: 62
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5910701, y: 0.8682417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_12
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1278
+        width: 346
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_13
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1482
+        width: 69
+        height: 276
+      alignment: 9
+      pivot: {x: 0.49999824, y: 0.8682415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_14
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1413
+        width: 268
+        height: 310
+      alignment: 9
+      pivot: {x: 0.56320506, y: 0.20857446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_15
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 664
+        width: 176
+        height: 445
+      alignment: 9
+      pivot: {x: 0.67644846, y: 0.89968675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_16
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 682
+        width: 471
+        height: 422
+      alignment: 9
+      pivot: {x: 0.50599414, y: 0.68732023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_17
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1073
+        width: 57
+        height: 223
+      alignment: 9
+      pivot: {x: 0.4504673, y: 0.8544807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 97
+        height: 171
+      alignment: 9
+      pivot: {x: 0.20895027, y: 0.7971773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_19
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 654
+        width: 162
+        height: 414
+      alignment: 9
+      pivot: {x: 0.25602064, y: 0.88188004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_20
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 715
+        width: 88
+        height: 150
+      alignment: 9
+      pivot: {x: 0.7245705, y: 0.8011401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 29
+        width: 139
+        height: 452
+      alignment: 9
+      pivot: {x: 0.6827957, y: 0.9184809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_22
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 0
+        width: 158
+        height: 189
+      alignment: 9
+      pivot: {x: 0.3749216, y: 0.8435622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_23
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 35
+        width: 149
+        height: 180
+      alignment: 9
+      pivot: {x: 0.3673669, y: 0.8136873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maya Lehmann_24
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 116
+        width: 136
+        height: 428
+      alignment: 9
+      pivot: {x: 0.62455124, y: 0.9089658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 
