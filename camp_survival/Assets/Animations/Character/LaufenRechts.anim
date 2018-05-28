@@ -2106,7 +2106,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: root/oberschenkelL/unterschenklL
+    path: root/oberschenkelL
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2116,7 +2116,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: root/oberschenkelL/unterschenklL
+    path: root/oberschenkelL
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2126,7 +2126,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: root/oberschenkelL/unterschenklL
+    path: root/oberschenkelL
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2346,7 +2346,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: root/oberschenkelL
+    path: root/oberschenkelL/unterschenklL
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2356,7 +2356,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: root/oberschenkelL
+    path: root/oberschenkelL/unterschenklL
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2366,7 +2366,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: root/oberschenkelL
+    path: root/oberschenkelL/unterschenklL
     classID: 4
     script: {fileID: 0}
   m_HasGenericRootTransform: 0
