@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 554ed4bcaf14a3c4aa77b7e39fd09320
+timeCreated: 1527536864
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wildhund(3.1)_0
+    21300002: Wildhund(3.1)_1
+    21300004: Wildhund(3.1)_2
+    21300006: Wildhund(3.1)_3
+    21300008: Wildhund(3.1)_4
+    21300010: Wildhund(3.1)_5
+    21300012: Wildhund(3.1)_6
+    21300014: Wildhund(3.1)_7
+    21300016: Wildhund(3.1)_8
+    21300018: Wildhund(3.1)_9
+    21300020: Wildhund(3.1)_10
+    21300022: Wildhund(3.1)_11
+    21300024: Wildhund(3.1)_12
+    21300026: Wildhund(3.1)_13
+    21300028: Wildhund(3.1)_14
+    21300030: Wildhund(3.1)_15
+    21300032: Wildhund(3.1)_16
+    21300034: Wildhund(3.1)_17
+    21300036: Wildhund(3.1)_18
+    21300038: Wildhund(3.1)_19
+    21300040: Wildhund(3.1)_20
+    21300042: Wildhund(3.1)_21
+    21300044: Wildhund(3.1)_22
+    21300046: Wildhund(3.1)_23
+    21300048: Wildhund(3.1)_24
+    21300050: Wildhund(3.1)_25
+    21300052: Wildhund(3.1)_26
+    21300054: Wildhund(3.1)_27
+    21300056: Wildhund(3.1)_28
+    21300058: Wildhund(3.1)_29
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wildhund(3.1)_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1462
+        width: 237
+        height: 163
+      alignment: 9
+      pivot: {x: 0.78291494, y: 0.15499336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1385
+        width: 127
+        height: 68
+      alignment: 9
+      pivot: {x: 0.48296925, y: 0.4681935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1078
+        width: 543
+        height: 289
+      alignment: 9
+      pivot: {x: 0.08181076, y: 0.8418425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1019
+        width: 78
+        height: 175
+      alignment: 9
+      pivot: {x: 0.61091965, y: 0.7224728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 962
+        width: 87
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4502781, y: 0.8839523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_5
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 967
+        width: 95
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4772326, y: 0.8455572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_6
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1046
+        width: 163
+        height: 224
+      alignment: 9
+      pivot: {x: 0.08011857, y: 0.8639003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 899
+        width: 65
+        height: 113
+      alignment: 9
+      pivot: {x: 0.83275896, y: 0.7871148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_8
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 826
+        width: 36
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5600823, y: 0.77036643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_9
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 839
+        width: 82
+        height: 113
+      alignment: 9
+      pivot: {x: 0.7373955, y: 0.80625606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_10
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 882
+        width: 78
+        height: 117
+      alignment: 9
+      pivot: {x: 0.371834, y: 0.8154855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 237
+        height: 163
+      alignment: 9
+      pivot: {x: 0.6774181, y: 0.17754565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_12
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 823
+        width: 82
+        height: 58
+      alignment: 9
+      pivot: {x: 0.6055089, y: 0.7983356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_13
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 794
+        width: 49
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7197141, y: 0.83488613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_14
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 734
+        width: 82
+        height: 58
+      alignment: 9
+      pivot: {x: 0.65826344, y: 0.7237517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_15
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 777
+        width: 72
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7403259, y: 0.6138386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 389
+        width: 682
+        height: 284
+      alignment: 9
+      pivot: {x: 0.19288372, y: 0.7011396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_17
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 223
+        width: 78
+        height: 175
+      alignment: 9
+      pivot: {x: 0.4593142, y: 0.71761405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_18
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 282
+        width: 163
+        height: 224
+      alignment: 9
+      pivot: {x: 0.11060918, y: 0.7550162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_19
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 198
+        width: 88
+        height: 169
+      alignment: 9
+      pivot: {x: 0.57212585, y: 0.81923157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_20
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 209
+        width: 95
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4665945, y: 0.74411803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_21
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 238
+        width: 151
+        height: 122
+      alignment: 9
+      pivot: {x: 0.28983212, y: 0.68208814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 65
+        height: 113
+      alignment: 9
+      pivot: {x: 0.54882437, y: 0.6685062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_23
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 69
+        width: 36
+        height: 120
+      alignment: 9
+      pivot: {x: 1.0289239, y: 0.7115696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_24
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 87
+        width: 82
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6161045, y: 0.75275993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_25
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 84
+        width: 79
+        height: 117
+      alignment: 9
+      pivot: {x: 0.33931452, y: 0.7169938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 23
+        width: 82
+        height: 58
+      alignment: 9
+      pivot: {x: 0.61610484, y: 0.6094321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_27
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1
+        width: 82
+        height: 58
+      alignment: 9
+      pivot: {x: 0.6161045, y: 0.71886533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_28
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhund(3.1)_29
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 9
+        width: 49
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7047451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

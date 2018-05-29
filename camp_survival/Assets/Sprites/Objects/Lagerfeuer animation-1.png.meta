@@ -1,12 +1,9 @@
 fileFormatVersion: 2
-guid: 40aec3185eab60d41aad029878a56c72
-timeCreated: 1526569988
+guid: b292939e45f47654cb22ef1d02c9be95
+timeCreated: 1527484196
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: axt_und_pflock1_0
-    21300002: axt_und_pflock1_1
-    21300004: axt_und_pflock1_2
+  fileIDToRecycleName: {}
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -43,7 +40,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,61 +67,9 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: axt_und_pflock1_0
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 30
-        width: 357
-        height: 383
-      alignment: 9
-      pivot: {x: 0.5695339, y: 0.9266896}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: axt_und_pflock1_1
-      rect:
-        serializedVersion: 2
-        x: 351
-        y: 153
-        width: 97
-        height: 254
-      alignment: 9
-      pivot: {x: 0.105466545, y: 0.854274}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: axt_und_pflock1_2
-      rect:
-        serializedVersion: 2
-        x: 387
-        y: 0
-        width: 128
-        height: 132
-      alignment: 9
-      pivot: {x: 0.5629697, y: 0.5000001}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
+    sprites: []
     outline: []
     physicsShape: []
   spritePackingTag: 
