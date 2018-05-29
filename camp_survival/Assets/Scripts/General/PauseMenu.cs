@@ -7,11 +7,14 @@ public class PauseMenu : MonoBehaviour {
 	private Transform[] voice;
 	private bool paused = false;
 	private int isPlaying;
+	public GameObject pause;
 
 
 	void Start() {
 
 		GameObject.Find ("PauseMenu").GetComponent<Canvas> ().enabled = false;
+		pause = GameObject.Find ("PauseMenu");
+		DontDestroyOnLoad(this.pause);
 	}
 
 

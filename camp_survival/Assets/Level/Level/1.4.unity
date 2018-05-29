@@ -9641,7 +9641,7 @@ GameObject:
   - component: {fileID: 1451223925}
   - component: {fileID: 1451223926}
   m_Layer: 0
-  m_Name: unterschenkelL
+  m_Name: unterschenklL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

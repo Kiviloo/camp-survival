@@ -317,6 +317,10 @@ PlayableDirector:
     value: {fileID: 1622293140}
   - key: {fileID: 114393337668221444, guid: 08bc37a3e95e96842b1d5296b5bd86c2, type: 2}
     value: {fileID: 1269036392}
+  - key: {fileID: 114459084360982194, guid: 08bc37a3e95e96842b1d5296b5bd86c2, type: 2}
+    value: {fileID: 1269036392}
+  - key: {fileID: 114996598283000464, guid: 08bc37a3e95e96842b1d5296b5bd86c2, type: 2}
+    value: {fileID: 616725824}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &119669854
@@ -483,7 +487,7 @@ Transform:
   m_GameObject: {fileID: 148584678}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -2.3, y: -2.6, z: 0.234375}
-  m_LocalScale: {x: 1.1701547, y: 1.1701546, z: 1.1701546}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 947745744}
   - {fileID: 402568246}
@@ -735,7 +739,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 255570770}
-  m_LocalRotation: {x: -0, y: -0, z: 0.15928078, w: 0.9872334}
+  m_LocalRotation: {x: 0, y: 0, z: 0.15935147, w: 0.98722196}
   m_LocalPosition: {x: -0.08, y: -2.54, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -2209,7 +2213,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 616725824}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.94, y: 0.2, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1163118666}
@@ -3580,7 +3584,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1163118665}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 36.54, y: 87.29, z: 0.234375}
+  m_LocalPosition: {x: 25.28, y: 87.29, z: 0.234375}
   m_LocalScale: {x: 0.5621517, y: 0.5621515, z: 0.5621515}
   m_Children:
   - {fileID: 844315181}
@@ -3913,13 +3917,14 @@ GameObject:
   - component: {fileID: 1269036396}
   - component: {fileID: 1269036395}
   - component: {fileID: 1269036394}
+  - component: {fileID: 1269036397}
   m_Layer: 0
   m_Name: FaceCamUmsehen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1269036393
 Transform:
   m_ObjectHideFlags: 0
@@ -3927,7 +3932,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1269036392}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.82, y: -12.07, z: -1}
+  m_LocalPosition: {x: 19.417494, y: -12.694613, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 137210063}
@@ -3983,6 +3988,23 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+--- !u!95 &1269036397
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1269036392}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1285473191
 GameObject:
   m_ObjectHideFlags: 0
@@ -4212,7 +4234,6 @@ MonoBehaviour:
   - {fileID: 8300000, guid: aab5bc25f6c110a4b829d1c16a12d3b5, type: 3}
   seconds:
   - 1
-  audio: {fileID: 0}
 --- !u!82 &1323196414
 AudioSource:
   m_ObjectHideFlags: 0
@@ -4316,8 +4337,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1332412102}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.020000458, y: 1.0400009, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -0.017870132, y: 1.0391961, z: 0}
+  m_LocalScale: {x: 0.97337526, y: 1, z: 1}
   m_Children:
   - {fileID: 619344829}
   - {fileID: 27472810}
@@ -4991,7 +5012,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1622293141
 Transform:
   m_ObjectHideFlags: 0
@@ -5184,7 +5205,7 @@ MonoBehaviour:
   camera:
   - {fileID: 1316764423}
   ziel:
-  - {fileID: 1163118665}
+  - {fileID: 1332412102}
 --- !u!114 &1679862356
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5491,7 +5512,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1819320396}
   m_LocalRotation: {x: -0, y: -0, z: -0.25763887, w: 0.96624136}
-  m_LocalPosition: {x: 0.85, y: -3.89, z: 0}
+  m_LocalPosition: {x: 0.85, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 941791050}
