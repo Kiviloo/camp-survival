@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 6c8f9be5ab9ac9242b9b8e262dc47669
+timeCreated: 1527169817
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "tollw\xFCtiges Eichh\xF6rnchen_0"
+    21300002: "tollw\xFCtiges Eichh\xF6rnchen_1"
+    21300004: "tollw\xFCtiges Eichh\xF6rnchen_2"
+    21300006: "tollw\xFCtiges Eichh\xF6rnchen_3"
+    21300008: "tollw\xFCtiges Eichh\xF6rnchen_4"
+    21300010: "tollw\xFCtiges Eichh\xF6rnchen_5"
+    21300012: "tollw\xFCtiges Eichh\xF6rnchen_6"
+    21300014: "tollw\xFCtiges Eichh\xF6rnchen_7"
+    21300016: "tollw\xFCtiges Eichh\xF6rnchen_8"
+    21300018: "tollw\xFCtiges Eichh\xF6rnchen_9"
+    21300020: "tollw\xFCtiges Eichh\xF6rnchen_10"
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "tollw\xFCtiges Eichh\xF6rnchen_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3009
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "tollw\xFCtiges Eichh\xF6rnchen_1"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2505
+        width: 871
+        height: 787
+      alignment: 9
+      pivot: {x: 0.7764252, y: 0.2608188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "tollw\xFCtiges Eichh\xF6rnchen_2"
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 2756
+        width: 369
+        height: 407
+      alignment: 9
+      pivot: {x: 0.74912995, y: 0.86569387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "tollw\xFCtiges Eichh\xF6rnchen_3"
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 2628
+        width: 295
+        height: 503
+      alignment: 9
+      pivot: {x: 0.44064322, y: 0.85682005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "tollw\xFCtiges Eichh\xF6rnchen_4"
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2349
+        width: 307
+        height: 278
+      alignment: 9
+      pivot: {x: 0.59981453, y: 0.34253368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "tollw\xFCtiges Eichh\xF6rnchen_5"
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 1794
+        width: 1355
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "tollw\xFCtiges Eichh\xF6rnchen_6"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1674
+        width: 307
+        height: 333
+      alignment: 9
+      pivot: {x: 0.6920456, y: 0.6180343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "tollw\xFCtiges Eichh\xF6rnchen_7"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 878
+        width: 369
+        height: 506
+      alignment: 9
+      pivot: {x: 0.71303725, y: 0.89810264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "tollw\xFCtiges Eichh\xF6rnchen_8"
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 815
+        width: 626
+        height: 489
+      alignment: 9
+      pivot: {x: 0.7840553, y: 0.76215684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "tollw\xFCtiges Eichh\xF6rnchen_9"
+      rect:
+        serializedVersion: 2
+        x: 4706
+        y: 306
+        width: 1122
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5947605, y: 0.06577778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "tollw\xFCtiges Eichh\xF6rnchen_10"
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 0
+        width: 418
+        height: 502
+      alignment: 9
+      pivot: {x: 0.7077552, y: 0.92012197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
