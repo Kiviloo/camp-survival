@@ -1,28 +1,34 @@
 fileFormatVersion: 2
 guid: c78d698b5546cf24eafdbb3db47a3e27
-timeCreated: 1526569795
+timeCreated: 1527448382
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Chris Borealis_0
-    21300002: Chris Borealis_1
-    21300004: Chris Borealis_2
-    21300006: Chris Borealis_3
-    21300008: Chris Borealis_4
-    21300010: Chris Borealis_5
-    21300012: Chris Borealis_6
-    21300014: Chris Borealis_7
-    21300016: Chris Borealis_8
-    21300018: Chris Borealis_9
-    21300020: Chris Borealis_10
-    21300022: Chris Borealis_11
-    21300024: Chris Borealis_12
-    21300026: Chris Borealis_13
-    21300028: Chris Borealis_14
-    21300030: Chris Borealis_15
-    21300032: Chris Borealis_16
-    21300034: Chris Borealis_17
-    21300036: Chris Borealis_18
+    21300000: Chris Borealis1_0
+    21300002: Chris Borealis1_1
+    21300004: Chris Borealis1_2
+    21300006: Chris Borealis1_3
+    21300008: Chris Borealis1_4
+    21300010: Chris Borealis1_5
+    21300012: Chris Borealis1_6
+    21300014: Chris Borealis1_7
+    21300016: Chris Borealis1_8
+    21300018: Chris Borealis1_9
+    21300020: Chris Borealis1_10
+    21300022: Chris Borealis1_11
+    21300024: Chris Borealis1_12
+    21300026: Chris Borealis1_13
+    21300028: Chris Borealis1_14
+    21300030: Chris Borealis1_15
+    21300032: Chris Borealis1_16
+    21300034: Chris Borealis1_17
+    21300036: Chris Borealis1_18
+    21300038: Chris Borealis1_19
+    21300040: Chris Borealis1_20
+    21300042: Chris Borealis1_21
+    21300044: Chris Borealis1_22
+    21300046: Chris Borealis1_23
+    21300048: Chris Borealis1_24
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -96,27 +102,17 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Chris Borealis_0
+      name: Chris Borealis1_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 1958
-        width: 285
-        height: 324
+        x: 1986
+        y: 2326
+        width: 54
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,25 +120,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Chris Borealis_1
+      name: Chris Borealis1_1
       rect:
         serializedVersion: 2
-        x: 442
-        y: 2145
-        width: 55
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Chris Borealis_2
-      rect:
-        serializedVersion: 2
-        x: 529
-        y: 2147
+        x: 2071
+        y: 2326
         width: 47
         height: 22
       alignment: 0
@@ -152,13 +134,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Chris Borealis_3
+      name: Chris Borealis1_2
       rect:
         serializedVersion: 2
-        x: 758
-        y: 1729
-        width: 421
-        height: 576
+        x: 1984
+        y: 2227
+        width: 54
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,13 +148,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Chris Borealis_4
+      name: Chris Borealis1_3
       rect:
         serializedVersion: 2
-        x: 2257
-        y: 1923
-        width: 99
-        height: 355
+        x: 2069
+        y: 2228
+        width: 49
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,69 +162,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Chris Borealis_5
+      name: Chris Borealis1_4
       rect:
         serializedVersion: 2
-        x: 150
-        y: 1859
-        width: 18
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Chris Borealis_6
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 1623
-        width: 199
-        height: 197
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Chris Borealis_7
-      rect:
-        serializedVersion: 2
-        x: 2340
-        y: 1395
-        width: 81
-        height: 290
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Chris Borealis_8
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1127
-        width: 275
-        height: 248
+        x: 2482
+        y: 1912
+        width: 283
+        height: 325
       alignment: 9
-      pivot: {x: 0.48977718, y: 0.3526321}
+      pivot: {x: 0.63262963, y: 0.097601034}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Chris Borealis_9
+      name: Chris Borealis1_5
       rect:
         serializedVersion: 2
-        x: 720
-        y: 1172
-        width: 113
-        height: 370
+        x: 1203
+        y: 1991
+        width: 200
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5313556, y: 0.19505969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chris Borealis1_6
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2145
+        width: 54
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,125 +204,251 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Chris Borealis_10
+      name: Chris Borealis1_7
       rect:
         serializedVersion: 2
-        x: 1175
-        y: 1032
+        x: 2069
+        y: 2145
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chris Borealis1_8
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2053
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chris Borealis1_9
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 2053
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chris Borealis1_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1136
         width: 204
         height: 521
       alignment: 9
-      pivot: {x: 0.5689051, y: 0.81296813}
+      pivot: {x: 0.57291055, y: 0.92822737}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Chris Borealis_11
+      name: Chris Borealis1_11
       rect:
         serializedVersion: 2
-        x: 1623
-        y: 1068
-        width: 198
-        height: 506
+        x: 761
+        y: 1492
+        width: 114
+        height: 372
       alignment: 9
-      pivot: {x: 0.5, y: 0.8333579}
+      pivot: {x: 0.63711816, y: 0.89870983}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Chris Borealis_12
+      name: Chris Borealis1_12
       rect:
         serializedVersion: 2
-        x: 2333
-        y: 1050
+        x: 1122
+        y: 1297
+        width: 423
+        height: 578
+      alignment: 9
+      pivot: {x: 0.50150406, y: 0.10148393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chris Borealis1_13
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1647
         width: 98
-        height: 152
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 355
+      alignment: 9
+      pivot: {x: 0.42349306, y: 0.89130586}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Chris Borealis_13
+      name: Chris Borealis1_14
       rect:
         serializedVersion: 2
-        x: 727
-        y: 728
-        width: 88
+        x: 2026
+        y: 1155
+        width: 198
+        height: 508
+      alignment: 9
+      pivot: {x: 0.47452182, y: 0.9446611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chris Borealis1_15
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1077
+        width: 89
         height: 314
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.42404348, y: 0.8976479}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Chris Borealis_14
+      name: Chris Borealis1_16
       rect:
         serializedVersion: 2
-        x: 1213
-        y: 301
-        width: 166
-        height: 528
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1200
+        y: 915
+        width: 277
+        height: 250
+      alignment: 9
+      pivot: {x: 0.45525306, y: 0.8470542}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Chris Borealis_15
+      name: Chris Borealis1_17
       rect:
         serializedVersion: 2
-        x: 1742
-        y: 308
-        width: 161
-        height: 514
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1744
+        y: 1113
+        width: 81
+        height: 289
+      alignment: 9
+      pivot: {x: 0.6312693, y: 0.88695526}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Chris Borealis_16
+      name: Chris Borealis1_18
       rect:
         serializedVersion: 2
-        x: 708
-        y: 407
+        x: 2
+        y: 417
+        width: 152
+        height: 532
+      alignment: 9
+      pivot: {x: 0.6138961, y: 0.95214313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chris Borealis1_19
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 790
         width: 127
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 193
+      alignment: 9
+      pivot: {x: 0.2834886, y: 0.8421495}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Chris Borealis_17
+      name: Chris Borealis1_20
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1778
+        y: 644
+        width: 100
+        height: 151
+      alignment: 9
+      pivot: {x: 0.6487366, y: 0.79550475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chris Borealis1_21
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 420
+        width: 161
+        height: 515
+      alignment: 9
+      pivot: {x: 0.29983503, y: 0.9139625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chris Borealis1_22
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 128
+        width: 184
+        height: 239
+      alignment: 9
+      pivot: {x: 0.31490824, y: 0.7849954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chris Borealis1_23
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 140
+        width: 173
+        height: 224
+      alignment: 9
+      pivot: {x: 0.39577946, y: 0.79504764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chris Borealis1_24
+      rect:
+        serializedVersion: 2
+        x: 1657
         y: 0
-        width: 182
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Chris Borealis_18
-      rect:
-        serializedVersion: 2
-        x: 373
-        y: 14
-        width: 175
-        height: 234
+        width: 44
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
