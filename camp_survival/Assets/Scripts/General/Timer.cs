@@ -10,7 +10,7 @@ public class Timer : MonoBehaviour {
 	public Text timerText;
 	public int howLong;
 	private float startTime;
-
+	public static int check;
 
 	private double time;
 
@@ -31,7 +31,7 @@ public class Timer : MonoBehaviour {
 			}
 
 			float t = Time.time - startTime;
-			int check = ((int)((howLong - (t % 60)) + 1));
+			check = ((int)((howLong - (t % 60)) + 1));
 			string output = ((int)((howLong - (t % 60))) + 1).ToString ();
 			timerText.text = output;
 			if (check == 0) {
