@@ -16,7 +16,6 @@ public class LevelA3_2_1 : MonoBehaviour {
 
 			checkUp = Timer.check - 1;
 
-			print (checkUp);
 			if (checkUp <= 0 && test == true) {
 
 				SceneManager.LoadScene ("A3.2.2B", LoadSceneMode.Single);

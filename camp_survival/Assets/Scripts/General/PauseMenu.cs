@@ -14,10 +14,8 @@ public class PauseMenu : MonoBehaviour {
 
 		GameObject.Find ("PauseMenu").GetComponent<Canvas> ().enabled = false;
 		pause = GameObject.Find ("PauseMenu");
-		DontDestroyOnLoad(this.pause);
 	}
-
-
+		
 	void Update () {
 
 		if (Input.GetKeyDown (KeyCode.Escape)) {
@@ -31,8 +29,7 @@ public class PauseMenu : MonoBehaviour {
 			}
 		}
 	}
-
-
+		
 	public void Pause() {
 
 		GameObject.Find ("PauseMenu").GetComponent<Canvas> ().enabled = true;

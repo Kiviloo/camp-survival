@@ -65,3 +65,30 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Level/Level/A3.2.3.unity
     guid: f362d9cb2fce92f479b5d48d52853bb4
+  - enabled: 1
+    path: Assets/Level/Level/B3.1.unity
+    guid: 972ea0ff73d78044eac69070afcd08ab
+  - enabled: 1
+    path: Assets/Level/Level/A3.3.unity
+    guid: c7e62693c258ba744b49799e2c664037
+  - enabled: 1
+    path: Assets/Level/Level/A3.4.unity
+    guid: fc7acf47dfa61c4419e98ac128d515dd
+  - enabled: 1
+    path: Assets/Level/Level/A3.5.unity
+    guid: 129cef15cda636d4d9423cc80a4382e6
+  - enabled: 1
+    path: Assets/Level/Level/2.4.1.unity
+    guid: 2742dc41a0c3aa74a9ca0b7a0c2a67ad
+  - enabled: 1
+    path: Assets/Level/Level/A3.3.1.unity
+    guid: 9e4f46163fd98dd428bb053abb3d6476
+  - enabled: 1
+    path: Assets/Level/Level/A3.4.1.unity
+    guid: 3b24d6897a525054fbff99cd98ddaa18
+  - enabled: 1
+    path: Assets/Level/Level/TestLevelEnde.unity
+    guid: 9e43202241ef68c43b496c6d33bae82c
+  - enabled: 1
+    path: Assets/Level/Level/A3.3.2.unity
+    guid: ae2fb4e7b8d468f4aa2296270adaeca4
