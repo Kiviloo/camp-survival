@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: a858ce9084525a54db75b12e99466e1b
+timeCreated: 1527457301
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bonny_schreyer_0
+    21300002: bonny_schreyer_1
+    21300004: bonny_schreyer_2
+    21300006: bonny_schreyer_3
+    21300008: bonny_schreyer_4
+    21300010: bonny_schreyer_5
+    21300012: bonny_schreyer_6
+    21300014: bonny_schreyer_7
+    21300016: bonny_schreyer_8
+    21300018: bonny_schreyer_9
+    21300020: bonny_schreyer_10
+    21300022: bonny_schreyer_11
+    21300024: bonny_schreyer_12
+    21300026: bonny_schreyer_13
+    21300028: bonny_schreyer_14
+    21300030: bonny_schreyer_15
+    21300032: bonny_schreyer_16
+    21300034: bonny_schreyer_17
+    21300036: bonny_schreyer_18
+    21300038: bonny_schreyer_19
+    21300040: bonny_schreyer_20
+    21300042: bonny_schreyer_21
+    21300044: bonny_schreyer_22
+    21300046: bonny_schreyer_23
+    21300048: bonny_schreyer_24
+    21300050: bonny_schreyer_25
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bonny_schreyer_0
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 2378
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_1
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2382
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_2
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 2384
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_3
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2159
+        width: 125
+        height: 149
+      alignment: 9
+      pivot: {x: 0.55299217, y: 0.32217714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_4
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 2258
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_5
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2260
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_6
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 2096
+        width: 239
+        height: 288
+      alignment: 9
+      pivot: {x: 0.48614323, y: 0.21250322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_7
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 2133
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_8
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2137
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_9
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1510
+        width: 171
+        height: 493
+      alignment: 9
+      pivot: {x: 0.5193692, y: 0.89636105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_10
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1772
+        width: 91
+        height: 344
+      alignment: 9
+      pivot: {x: 0.57279015, y: 0.86585677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_11
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1458
+        width: 367
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_12
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1703
+        width: 87
+        height: 327
+      alignment: 9
+      pivot: {x: 0.4238618, y: 0.89500535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_13
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 1983
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_14
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 1986
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_15
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 1684
+        width: 260
+        height: 351
+      alignment: 9
+      pivot: {x: 0.5127394, y: 0.33015567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_16
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1347
+        width: 67
+        height: 270
+      alignment: 9
+      pivot: {x: 0.45056698, y: 0.86799675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_17
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1277
+        width: 69
+        height: 240
+      alignment: 9
+      pivot: {x: 0.45199984, y: 0.9001963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_18
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1429
+        width: 198
+        height: 447
+      alignment: 9
+      pivot: {x: 0.4330919, y: 0.89269394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_19
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 787
+        width: 111
+        height: 488
+      alignment: 9
+      pivot: {x: 0.55967534, y: 0.9275695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_20
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 993
+        width: 107
+        height: 179
+      alignment: 9
+      pivot: {x: 0.15951853, y: 0.8885553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_21
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1137
+        width: 315
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5000004, y: 0.37987712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_22
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 787
+        width: 144
+        height: 450
+      alignment: 9
+      pivot: {x: 0.33900282, y: 0.91215575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_23
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 979
+        width: 84
+        height: 149
+      alignment: 9
+      pivot: {x: 0.73656934, y: 0.8334199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_24
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 301
+        width: 174
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3477257, y: 0.8477563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bonny_schreyer_25
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 329
+        width: 174
+        height: 198
+      alignment: 9
+      pivot: {x: 0.3477257, y: 0.8679965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

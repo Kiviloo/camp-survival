@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 436dd6dc96244ca4e83c3bdaac01294e
+timeCreated: 1526569793
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Charakter Raj Verma_0
+    21300002: Charakter Raj Verma_1
+    21300004: Charakter Raj Verma_2
+    21300006: Charakter Raj Verma_3
+    21300008: Charakter Raj Verma_4
+    21300010: Charakter Raj Verma_5
+    21300012: Charakter Raj Verma_6
+    21300014: Charakter Raj Verma_7
+    21300016: Charakter Raj Verma_8
+    21300018: Charakter Raj Verma_9
+    21300020: Charakter Raj Verma_10
+    21300022: Charakter Raj Verma_11
+    21300024: Charakter Raj Verma_12
+    21300026: Charakter Raj Verma_13
+    21300028: Charakter Raj Verma_14
+    21300030: Charakter Raj Verma_15
+    21300032: Charakter Raj Verma_16
+    21300034: Charakter Raj Verma_17
+    21300036: Charakter Raj Verma_18
+    21300038: Charakter Raj Verma_19
+    21300040: Charakter Raj Verma_20
+    21300042: Charakter Raj Verma_21
+    21300044: Charakter Raj Verma_22
+    21300046: Charakter Raj Verma_23
+    21300048: Charakter Raj Verma_24
+    21300050: Charakter Raj Verma_25
+    21300052: Charakter Raj Verma_26
+    21300054: Charakter Raj Verma_27
+    21300056: Charakter Raj Verma_28
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Charakter Raj Verma_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1892
+        width: 302
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5883534, y: 0.24691214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2197
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_2
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2198
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2122
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_4
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2123
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_5
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1947
+        width: 213
+        height: 211
+      alignment: 9
+      pivot: {x: 0.5139192, y: 0.3875929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2055
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2056
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1998
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_9
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1998
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1938
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1943
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_12
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1880
+        width: 71
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_13
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1837
+        width: 68
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1341
+        width: 128
+        height: 393
+      alignment: 9
+      pivot: {x: 0.6158105, y: 0.8545624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1393
+        width: 119
+        height: 370
+      alignment: 9
+      pivot: {x: 0.47508636, y: 0.8365386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_16
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1262
+        width: 451
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 902
+        width: 112
+        height: 360
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.89529926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 917
+        width: 105
+        height: 333
+      alignment: 9
+      pivot: {x: 0.55647147, y: 0.88283485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_19
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 926
+        width: 297
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5099824, y: 0.3993109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_20
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 693
+        width: 178
+        height: 566
+      alignment: 9
+      pivot: {x: 0.64990306, y: 0.91380715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_21
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 747
+        width: 172
+        height: 551
+      alignment: 9
+      pivot: {x: 0.36210597, y: 0.898169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 532
+        width: 136
+        height: 206
+      alignment: 9
+      pivot: {x: 0.23840567, y: 0.8310153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_23
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 487
+        width: 127
+        height: 191
+      alignment: 9
+      pivot: {x: 0.7334441, y: 0.8259664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 292
+        width: 218
+        height: 557
+      alignment: 9
+      pivot: {x: 0.6495977, y: 0.9417842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_25
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 277
+        width: 212
+        height: 542
+      alignment: 9
+      pivot: {x: 0.3321844, y: 0.9102507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_26
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 315
+        width: 244
+        height: 268
+      alignment: 9
+      pivot: {x: 0.74301195, y: 0.88718677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_27
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 334
+        width: 241
+        height: 268
+      alignment: 9
+      pivot: {x: 0.22935897, y: 0.89824915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Charakter Raj Verma_28
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 0
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
