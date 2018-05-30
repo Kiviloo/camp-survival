@@ -46,13 +46,13 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
---- !u!1102 &1102340645123520766
+--- !u!1102 &1102215806451433746
 AnimatorState:
   serializedVersion: 5
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: LaufenRechts
+  m_Name: sprungChris
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -65,7 +65,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: f5b7f91262367f146ae23e34e88f8dbd, type: 2}
+  m_Motion: {fileID: 7400000, guid: 1dfeea178b96acf47be8f676dd65ec0f, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -96,13 +96,13 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
---- !u!1102 &1102404897973711384
+--- !u!1102 &1102544452762333924
 AnimatorState:
   serializedVersion: 5
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: LaufenLinks
+  m_Name: chrisliegt
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -115,19 +115,19 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 950b32fd78a2a6547a410945ab142ae5, type: 2}
+  m_Motion: {fileID: 7400000, guid: 8e8126fb30f448947980ae84ee1df2a8, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
---- !u!1102 &1102826660435664424
+--- !u!1102 &1102560589802515688
 AnimatorState:
   serializedVersion: 5
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: ausfallbonny
+  m_Name: aufstehenchris
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -140,7 +140,32 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 4badf5285f951bb4690ffb199e1fa667, type: 2}
+  m_Motion: {fileID: 7400000, guid: e1c495c4a215ecc44b8a9d5a33f22310, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
+--- !u!1102 &1102834918991187864
+AnimatorState:
+  serializedVersion: 5
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: armeefuchtelnChris
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 73b45f3e6a9d43342960c5c50d446d84, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -183,20 +208,23 @@ AnimatorStateMachine:
     m_State: {fileID: 1102921215683918964}
     m_Position: {x: 699.2835, y: 32.765182, z: 0}
   - serializedVersion: 1
-    m_State: {fileID: 1102404897973711384}
-    m_Position: {x: 303.74786, y: -13.628471, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 1102340645123520766}
-    m_Position: {x: 516, y: -12, z: 0}
-  - serializedVersion: 1
     m_State: {fileID: 1102373618214499880}
     m_Position: {x: 551, y: 53, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102105617685049318}
     m_Position: {x: 586, y: 118, z: 0}
   - serializedVersion: 1
-    m_State: {fileID: 1102826660435664424}
-    m_Position: {x: 621, y: 183, z: 0}
+    m_State: {fileID: 1102834918991187864}
+    m_Position: {x: 656, y: 248, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102215806451433746}
+    m_Position: {x: 691, y: 313, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102544452762333924}
+    m_Position: {x: 471.8681, y: 14.957573, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102560589802515688}
+    m_Position: {x: 395.87207, y: 42.460922, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
