@@ -32,3 +32,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+camp_survival/Assets/Scripts/General/Voice.cs
