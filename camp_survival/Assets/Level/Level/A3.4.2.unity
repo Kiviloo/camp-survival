@@ -585,6 +585,10 @@ PlayableDirector:
     value: {fileID: 616725824}
   - key: {fileID: 114027992793398414, guid: 9099e5c41b4f289438f53ff712278cad, type: 2}
     value: {fileID: 616725824}
+  - key: {fileID: 114045535669219120, guid: 9099e5c41b4f289438f53ff712278cad, type: 2}
+    value: {fileID: 1143490646}
+  - key: {fileID: 114328234854245094, guid: 9099e5c41b4f289438f53ff712278cad, type: 2}
+    value: {fileID: 216061391}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &71762561
@@ -1153,7 +1157,7 @@ Transform:
   m_GameObject: {fileID: 137210062}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1.1125004, z: 1}
   m_Children:
   - {fileID: 1389169840}
   - {fileID: 30768857}
@@ -6673,8 +6677,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1389169839}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -26.72, y: -9.58, z: -0.5}
-  m_LocalScale: {x: 11.0482, y: 11.04819, z: 11.04819}
+  m_LocalPosition: {x: -26.72, y: -9.23, z: -0.5}
+  m_LocalScale: {x: 10.293781, y: 7.6780944, z: 10.293773}
   m_Children: []
   m_Father: {fileID: 137210063}
   m_RootOrder: 0
@@ -6713,7 +6717,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 7.093607
+  orthographic size: 11.418485
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
@@ -8706,6 +8710,7 @@ MonoBehaviour:
   voiceOver:
   - {fileID: 8300000, guid: f4f954982a76484438748cefbd392fea, type: 3}
   - {fileID: 8300000, guid: 6ff47a07961368648804fc9ea434e308, type: 3}
+  - {fileID: 8300000, guid: 6ff47a07961368648804fc9ea434e308, type: 3}
   - {fileID: 8300000, guid: 1e4ed50e96271184d957b813e13a5aa6, type: 3}
   seconds:
   - 1
@@ -9139,7 +9144,6 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1908850815}
-  - component: {fileID: 1908850816}
   m_Layer: 0
   m_Name: LevelScript
   m_TagString: Untagged
@@ -9160,17 +9164,6 @@ Transform:
   m_Father: {fileID: 724802920}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1908850816
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1908850814}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8edbfc4e451f92d4cadfea020cf62ecb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1913056378
 GameObject:
   m_ObjectHideFlags: 0
