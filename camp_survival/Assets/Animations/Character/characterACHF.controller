@@ -46,13 +46,13 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
---- !u!1102 &1102514718471672648
+--- !u!1102 &1102269701017372358
 AnimatorState:
   serializedVersion: 5
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: bonnyweglaufenrechtsHF
+  m_Name: RennenRechtsReyHF
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -65,7 +65,32 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 603016bb75d90df45ae7e37538339768, type: 2}
+  m_Motion: {fileID: 7400000, guid: d0b61edfaa526e84c8ad1d2a52b49095, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
+--- !u!1102 &1102285792895620936
+AnimatorState:
+  serializedVersion: 5
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RennenRechtsHumpelnHF
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 33412ca150304124eb98fd20c12e6b79, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -108,11 +133,14 @@ AnimatorStateMachine:
     m_State: {fileID: 1102769764598112902}
     m_Position: {x: 412.5, y: 129, z: 0}
   - serializedVersion: 1
-    m_State: {fileID: 1102514718471672648}
-    m_Position: {x: 336.49854, y: 21.160004, z: 0}
-  - serializedVersion: 1
     m_State: {fileID: 1102220609268786742}
     m_Position: {x: 371.49854, y: 86.16, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102285792895620936}
+    m_Position: {x: 286.3527, y: 23.775368, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102269701017372358}
+    m_Position: {x: 569.74646, y: 30.659424, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
