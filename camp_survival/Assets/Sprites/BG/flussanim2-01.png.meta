@@ -1,10 +1,14 @@
 fileFormatVersion: 2
-guid: 6055586177dc46b48a33c44d2a8411d4
-timeCreated: 1526569994
+guid: 368425fe379520544b00c4725ed05b38
+timeCreated: 1528134063
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: "Audioaufnahmeger\xE4t_0"
+    21300000: flussanim2-01_0
+    21300002: flussanim2-01_1
+    21300004: flussanim2-01_2
+    21300006: flussanim2-01_3
+    21300008: flussanim2-01_4
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -59,20 +63,20 @@ TextureImporter:
   textureFormatSet: 0
   platformSettings:
   - buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
   - buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -82,13 +86,69 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Audioaufnahmeger\xE4t_0"
+      name: flussanim2-01_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 235
-        height: 381
+        x: 212
+        y: 6727
+        width: 14458
+        height: 1253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flussanim2-01_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 5216
+        width: 14561
+        height: 1305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flussanim2-01_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3447
+        width: 14853
+        height: 1545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flussanim2-01_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1953
+        width: 14887
+        height: 1339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flussanim2-01_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 339
+        width: 15145
+        height: 1408
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
