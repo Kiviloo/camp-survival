@@ -12,7 +12,7 @@ public class Level3_4_5 : MonoBehaviour {
 
 	IEnumerator HoldOn() {
 
-		yield return new WaitForSeconds (5);
-		SceneManager.LoadScene ("A3.4.4", LoadSceneMode.Single);
+		yield return new WaitForSeconds (16);
+		SceneManager.LoadScene ("A3.4.6", LoadSceneMode.Single);
 	}
 }

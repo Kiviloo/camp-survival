@@ -718,6 +718,31 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+--- !u!1102 &1102509370872880980
+AnimatorState:
+  serializedVersion: 5
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RennenRechtsReyNormal
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 46c33435148abf54893752dd200755bd, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
 --- !u!1102 &1102520338504592766
 AnimatorState:
   serializedVersion: 5
@@ -940,6 +965,31 @@ AnimatorState:
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
   m_Motion: {fileID: 7400000, guid: 08d9a122f226678449658076cf40030d, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
+--- !u!1102 &1102865970143236958
+AnimatorState:
+  serializedVersion: 5
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RennenRechtsHumpelnNormal
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: e0d3be67e43be7840aae18fda5645b88, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -1217,7 +1267,7 @@ AnimatorStateMachine:
     m_Position: {x: 623, y: 461, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102135894473003036}
-    m_Position: {x: 624, y: 504, z: 0}
+    m_Position: {x: 792, y: 408, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102545075520578306}
     m_Position: {x: 864, y: 492, z: 0}
@@ -1236,6 +1286,12 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: 1102403678981145316}
     m_Position: {x: 754, y: 130, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102509370872880980}
+    m_Position: {x: 1008, y: 420, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102865970143236958}
+    m_Position: {x: 420, y: 540, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []

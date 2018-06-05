@@ -15,6 +15,9 @@ public class LevelA3_1_A : MonoBehaviour {
 		SceneManager.LoadScene ("A3.4", LoadSceneMode.Single);
 	}
 	public void onButton4() {
-		SceneManager.LoadScene ("A3.5", LoadSceneMode.Single);
+
+		if (Axt.axtBool == true) {
+			SceneManager.LoadScene ("A3.5", LoadSceneMode.Single);
+		}
 	}
 }

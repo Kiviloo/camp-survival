@@ -5,8 +5,15 @@ using UnityEngine.SceneManagement;
 
 public class LevelA3_2_7 : MonoBehaviour {
 
+	void Start() {
+
+		Axt.axtBool = false;
+	}
+
 	public void onButton1() {
-		SceneManager.LoadScene ("A3.2.9", LoadSceneMode.Single);
+		if (Axt.axtBool == false) {
+			SceneManager.LoadScene ("A3.2.9ohneAxt", LoadSceneMode.Single);
+		}
 	}
 	public void onButton2() {
 		SceneManager.LoadScene ("A3.2.8", LoadSceneMode.Single);

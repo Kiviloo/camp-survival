@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Level2_3_2 : MonoBehaviour {
+public class LevelA4_0 : MonoBehaviour {
 
 	void Start () {
 
@@ -12,7 +12,7 @@ public class Level2_3_2 : MonoBehaviour {
 
 	IEnumerator HoldOn() {
 
-		yield return new WaitForSeconds (32);
-		SceneManager.LoadScene ("2.4.1", LoadSceneMode.Single);
+		yield return new WaitForSeconds (24);
+		SceneManager.LoadScene ("A4.1", LoadSceneMode.Single);
 	}
 }

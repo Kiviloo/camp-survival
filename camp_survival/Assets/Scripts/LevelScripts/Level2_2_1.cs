@@ -9,10 +9,10 @@ public class Level2_2_1 : MonoBehaviour {
 		SceneManager.LoadScene ("2.3.1", LoadSceneMode.Single);
 	}
 	public void onButton2() {
-		SceneManager.LoadScene ("LevelTestEnde", LoadSceneMode.Single);
+		SceneManager.LoadScene ("2.4.1", LoadSceneMode.Single);
 	}
 	public void onButton3() {
-		SceneManager.LoadScene ("2.3.1", LoadSceneMode.Single);
+		SceneManager.LoadScene ("notruf", LoadSceneMode.Single);
 	}
 	public void onButton4() {
 

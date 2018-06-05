@@ -15222,7 +15222,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efb6f9f426f6cac42929f05dfbf47596, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  activate: 1
+  activate: 0
   timerText: {fileID: 2079472984}
   howLong: 10
 --- !u!1 &2129288049

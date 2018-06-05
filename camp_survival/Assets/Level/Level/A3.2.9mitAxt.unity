@@ -10853,6 +10853,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1908850815}
   - component: {fileID: 1908850816}
+  - component: {fileID: 1908850817}
   m_Layer: 0
   m_Name: LevelScript
   m_TagString: Untagged
@@ -10882,6 +10883,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 78d3609fe1c090b45b6cf0b93b70c9fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1908850817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1908850814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d2a0abc12337754093cbe3ea0a59929, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1909199965

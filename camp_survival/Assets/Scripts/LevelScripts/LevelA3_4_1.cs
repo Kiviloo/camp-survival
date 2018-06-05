@@ -6,7 +6,10 @@ using UnityEngine.SceneManagement;
 public class LevelA3_4_1 : MonoBehaviour {
 
 	public void onButton1() {
-		SceneManager.LoadScene ("A3.4.2", LoadSceneMode.Single);
+
+		if (Axt.axtBool == true) {
+			SceneManager.LoadScene ("A3.4.2", LoadSceneMode.Single);
+		}
 	}
 	public void onButton2() {
 		SceneManager.LoadScene ("A3.4.5", LoadSceneMode.Single);
