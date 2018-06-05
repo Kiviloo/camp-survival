@@ -1831,6 +1831,7 @@ MonoBehaviour:
   - m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 114745649034448534}
+    m_UnderlyingAsset: {fileID: 0}
     m_Duration: 20
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114052762309241768}
@@ -1888,6 +1889,7 @@ MonoBehaviour:
   - m_Start: 29.916666666666668
     m_ClipIn: 0
     m_Asset: {fileID: 114836316075621164}
+    m_UnderlyingAsset: {fileID: 0}
     m_Duration: 4.716666666666665
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114052762309241768}
@@ -1945,6 +1947,7 @@ MonoBehaviour:
   - m_Start: 44.88333333333333
     m_ClipIn: 0
     m_Asset: {fileID: 114160597832638974}
+    m_UnderlyingAsset: {fileID: 0}
     m_Duration: 15.616666666666667
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114052762309241768}
@@ -2049,6 +2052,7 @@ MonoBehaviour:
   - m_Start: 20
     m_ClipIn: 0
     m_Asset: {fileID: 114365353083194926}
+    m_UnderlyingAsset: {fileID: 0}
     m_Duration: 5
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114217775940278948}
@@ -2154,6 +2158,7 @@ MonoBehaviour:
   - m_Start: 25
     m_ClipIn: 0
     m_Asset: {fileID: 114589692417095728}
+    m_UnderlyingAsset: {fileID: 0}
     m_Duration: 5
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114294721250210408}
@@ -2270,6 +2275,7 @@ MonoBehaviour:
   - m_Start: 34.63333333333333
     m_ClipIn: 0
     m_Asset: {fileID: 114754945741719276}
+    m_UnderlyingAsset: {fileID: 0}
     m_Duration: 10.25
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114525519022982588}
@@ -2402,6 +2408,7 @@ MonoBehaviour:
   - m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 114592588522386532}
+    m_UnderlyingAsset: {fileID: 0}
     m_Duration: 7.816666666666666
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114751506680710574}
@@ -2435,6 +2442,7 @@ MonoBehaviour:
   - m_Start: 6.35
     m_ClipIn: 0
     m_Asset: {fileID: 114819313870802588}
+    m_UnderlyingAsset: {fileID: 0}
     m_Duration: 14.616666666666665
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114751506680710574}
@@ -2444,37 +2452,13 @@ MonoBehaviour:
     m_BlendOutDuration: 0.966666666666665
     m_MixInCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -2492,6 +2476,7 @@ MonoBehaviour:
   - m_Start: 20
     m_ClipIn: 0
     m_Asset: {fileID: 114600069841794090}
+    m_UnderlyingAsset: {fileID: 0}
     m_Duration: 5
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114751506680710574}
@@ -2501,19 +2486,7 @@ MonoBehaviour:
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -2605,6 +2578,7 @@ MonoBehaviour:
   - m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 114847216269614076}
+    m_UnderlyingAsset: {fileID: 0}
     m_Duration: 2.6
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114840427123578332}
@@ -2708,6 +2682,7 @@ MonoBehaviour:
   - m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 114128074944621212}
+    m_UnderlyingAsset: {fileID: 0}
     m_Duration: 60.5
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114894190977898296}

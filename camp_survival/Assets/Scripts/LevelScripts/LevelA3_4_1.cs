@@ -5,14 +5,16 @@ using UnityEngine.SceneManagement;
 
 public class LevelA3_4_1 : MonoBehaviour {
 
-	void Start () {
-
-		StartCoroutine (HoldOn ());
+	public void onButton1() {
+		SceneManager.LoadScene ("A3.4.2", LoadSceneMode.Single);
 	}
+	public void onButton2() {
+		SceneManager.LoadScene ("A3.4.5", LoadSceneMode.Single);
+	}
+	public void onButton3() {
+		SceneManager.LoadScene ("3.4.7", LoadSceneMode.Single);
+	}
+	public void onButton4() {
 
-	IEnumerator HoldOn() {
-
-		yield return new WaitForSeconds (6);
-		SceneManager.LoadScene ("TestLevelEnde", LoadSceneMode.Single);
 	}
 }

@@ -10924,7 +10924,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Was wirst du tun?
+  m_Text: Wildhunde tauchen auf!
 --- !u!222 &1535050919
 CanvasRenderer:
   m_ObjectHideFlags: 0
