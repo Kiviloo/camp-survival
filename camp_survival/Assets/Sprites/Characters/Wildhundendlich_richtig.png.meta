@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: 3deb609d69c24cf49a6d5c26ec6ccbd0
+timeCreated: 1527862342
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wildhundendlich_richtig_0
+    21300002: Wildhundendlich_richtig_1
+    21300004: Wildhundendlich_richtig_2
+    21300006: Wildhundendlich_richtig_3
+    21300008: Wildhundendlich_richtig_4
+    21300010: Wildhundendlich_richtig_5
+    21300012: Wildhundendlich_richtig_6
+    21300014: Wildhundendlich_richtig_7
+    21300016: Wildhundendlich_richtig_8
+    21300018: Wildhundendlich_richtig_9
+    21300020: Wildhundendlich_richtig_10
+    21300022: Wildhundendlich_richtig_11
+    21300024: Wildhundendlich_richtig_12
+    21300026: Wildhundendlich_richtig_13
+    21300028: Wildhundendlich_richtig_14
+    21300030: Wildhundendlich_richtig_15
+    21300032: Wildhundendlich_richtig_16
+    21300034: Wildhundendlich_richtig_17
+    21300036: Wildhundendlich_richtig_18
+    21300038: Wildhundendlich_richtig_19
+    21300040: Wildhundendlich_richtig_20
+    21300042: Wildhundendlich_richtig_21
+    21300044: Wildhundendlich_richtig_22
+    21300046: Wildhundendlich_richtig_23
+    21300048: Wildhundendlich_richtig_24
+    21300050: Wildhundendlich_richtig_25
+    21300052: Wildhundendlich_richtig_26
+    21300054: Wildhundendlich_richtig_27
+    21300056: Wildhundendlich_richtig_28
+    21300058: Wildhundendlich_richtig_29
+    21300060: Wildhundendlich_richtig_30
+    21300062: Wildhundendlich_richtig_31
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4196
+        width: 381
+        height: 260
+      alignment: 9
+      pivot: {x: 0.8349732, y: 0.11247371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_1
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 3965
+        width: 935
+        height: 383
+      alignment: 9
+      pivot: {x: 0.09050868, y: 0.7981473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_2
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 3785
+        width: 205
+        height: 113
+      alignment: 9
+      pivot: {x: 0.27063584, y: 0.5594428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_3
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 3741
+        width: 262
+        height: 361
+      alignment: 9
+      pivot: {x: 0.11543286, y: 0.79771024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_4
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 3417
+        width: 128
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_5
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 3450
+        width: 145
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_6
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 3177
+        width: 156
+        height: 274
+      alignment: 9
+      pivot: {x: 0.3702111, y: 0.86947566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_7
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 3280
+        width: 243
+        height: 198
+      alignment: 9
+      pivot: {x: 0.2916948, y: 0.7300828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_8
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 3021
+        width: 106
+        height: 185
+      alignment: 9
+      pivot: {x: 0.6432599, y: 0.8556957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_9
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3028
+        width: 63
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5803475, y: 0.78264046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_10
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 2714
+        width: 134
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_11
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 2827
+        width: 129
+        height: 190
+      alignment: 9
+      pivot: {x: 0.42152297, y: 0.68648875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2529
+        width: 379
+        height: 263
+      alignment: 9
+      pivot: {x: 0.744281, y: 0.20213358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_13
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2710
+        width: 135
+        height: 96
+      alignment: 9
+      pivot: {x: 0.61248463, y: 0.71090955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_14
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 2508
+        width: 134
+        height: 97
+      alignment: 9
+      pivot: {x: 0.76442343, y: 0.81310403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_15
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 2495
+        width: 85
+        height: 102
+      alignment: 9
+      pivot: {x: 0.6191033, y: 0.59925276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_16
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 2430
+        width: 120
+        height: 65
+      alignment: 9
+      pivot: {x: 0.75309044, y: 0.65575045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_17
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2194
+        width: 206
+        height: 113
+      alignment: 9
+      pivot: {x: 0.39628586, y: 0.563025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_18
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1579
+        width: 937
+        height: 384
+      alignment: 9
+      pivot: {x: 0.12757246, y: 0.7411006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_19
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 1492
+        width: 263
+        height: 360
+      alignment: 9
+      pivot: {x: 0.1591537, y: 0.804342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_20
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 908
+        width: 128
+        height: 283
+      alignment: 9
+      pivot: {x: 0.5400629, y: 0.6811994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 848
+        width: 144
+        height: 274
+      alignment: 9
+      pivot: {x: 0.6300625, y: 0.8645541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_22
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 998
+        width: 154
+        height: 274
+      alignment: 9
+      pivot: {x: 0.5810777, y: 0.81898487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_23
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1059
+        width: 244
+        height: 198
+      alignment: 9
+      pivot: {x: 0.32089683, y: 0.72071177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_24
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 527
+        width: 106
+        height: 183
+      alignment: 9
+      pivot: {x: 0.71438193, y: 0.593133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_25
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 526
+        width: 63
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5990959, y: 0.65845096}
+      border: {x: 4, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_26
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 502
+        width: 135
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5924886, y: 0.7401146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_27
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 480
+        width: 128
+        height: 189
+      alignment: 9
+      pivot: {x: 0.35367966, y: 0.79728514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_28
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 94
+        width: 135
+        height: 96
+      alignment: 9
+      pivot: {x: 0.8366591, y: 0.914248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_29
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 125
+        width: 117
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5533583, y: 0.7881357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_30
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 149
+        width: 84
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5743205, y: 0.7401148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wildhundendlich_richtig_31
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 133
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6877579, y: 0.96000874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

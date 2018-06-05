@@ -543,6 +543,31 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+--- !u!1102 &1102379455383675984
+AnimatorState:
+  serializedVersion: 5
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: mehrWurste_wegwerfen
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 6304d3a8dc63f484d97d6f89e5fd1ba8, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
 --- !u!1102 &1102388188044178580
 AnimatorState:
   serializedVersion: 5
@@ -718,6 +743,31 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+--- !u!1102 &1102518968810954276
+AnimatorState:
+  serializedVersion: 5
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Axt_nehmen
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 64b41083e8ffdc9478a6091e9d1be592, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
 --- !u!1102 &1102520338504592766
 AnimatorState:
   serializedVersion: 5
@@ -820,13 +870,21 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+<<<<<<< HEAD
 --- !u!1102 &1102695732553808986
+=======
+--- !u!1102 &1102694219691362610
+>>>>>>> SahibNew
 AnimatorState:
   serializedVersion: 5
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_Name: AxtJump
+=======
+  m_Name: Wurst_wegwerfen
+>>>>>>> SahibNew
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -839,7 +897,36 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
+<<<<<<< HEAD
   m_Motion: {fileID: 7400000, guid: 2bc1a8040cd52fa488240a07108661b6, type: 2}
+=======
+  m_Motion: {fileID: 7400000, guid: 18fd5e854dccd1e42a49004a7f43f478, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
+--- !u!1102 &1102697066514313892
+AnimatorState:
+  serializedVersion: 5
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Angriff_Hund
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: bf9ee6122c7da254995368e9842cda2a, type: 2}
+>>>>>>> SahibNew
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -890,6 +977,31 @@ AnimatorState:
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
   m_Motion: {fileID: 7400000, guid: 7fbdc77b93b8cd2458742878cbb3be34, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
+--- !u!1102 &1102794524188383550
+AnimatorState:
+  serializedVersion: 5
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: wurst_essen
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 5124002bdc5d6a04c8a316ed28831d51, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -990,6 +1102,31 @@ AnimatorState:
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
   m_Motion: {fileID: 7400000, guid: aec43fc07cbf02147a268184c3bfc68d, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
+--- !u!1102 &1102919119893649884
+AnimatorState:
+  serializedVersion: 5
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Hand_heben
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 7e1135a9481c13d459b4b8f1e9275409, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -1202,6 +1339,7 @@ AnimatorStateMachine:
     m_Position: {x: 144, y: 456, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102896474461872628}
+<<<<<<< HEAD
     m_Position: {x: 1056, y: 324, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102870603226046892}
@@ -1236,6 +1374,27 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: 1102403678981145316}
     m_Position: {x: 754, y: 130, z: 0}
+=======
+    m_Position: {x: 822.41736, y: 482.73703, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102697066514313892}
+    m_Position: {x: 857.41736, y: 547.73706, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102694219691362610}
+    m_Position: {x: 892.41736, y: 612.73706, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102518968810954276}
+    m_Position: {x: 927.41736, y: 677.73706, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102919119893649884}
+    m_Position: {x: 962.41736, y: 742.73706, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102794524188383550}
+    m_Position: {x: 997.41736, y: 807.73706, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102379455383675984}
+    m_Position: {x: 1032.4174, y: 872.73706, z: 0}
+>>>>>>> SahibNew
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
