@@ -217,21 +217,13 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
-<<<<<<< HEAD
 --- !u!1102 &1102101709862458552
-=======
---- !u!1102 &1102127754845932664
->>>>>>> PeterNew
 AnimatorState:
   serializedVersion: 5
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-<<<<<<< HEAD
   m_Name: MesserWerfenLaufen
-=======
-  m_Name: Street Fighter V
->>>>>>> PeterNew
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -244,7 +236,6 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-<<<<<<< HEAD
   m_Motion: {fileID: 7400000, guid: c0b3f63db60743748847a69ccccb4a93, type: 2}
   m_Tag: 
   m_SpeedParameter: 
@@ -346,9 +337,6 @@ AnimatorState:
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
   m_Motion: {fileID: 7400000, guid: d0b61edfaa526e84c8ad1d2a52b49095, type: 2}
-=======
-  m_Motion: {fileID: 7400000, guid: e6a9ab8530775c640bdb1f503eb37495, type: 2}
->>>>>>> PeterNew
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -530,31 +518,6 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
---- !u!1102 &1102350688110711810
-AnimatorState:
-  serializedVersion: 5
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: "Tommy\xB4s Brand Coffee"
-  m_Speed: 1
-  m_CycleOffset: 0
-  m_Transitions: []
-  m_StateMachineBehaviours: []
-  m_Position: {x: 50, y: 50, z: 0}
-  m_IKOnFeet: 0
-  m_WriteDefaultValues: 1
-  m_Mirror: 0
-  m_SpeedParameterActive: 0
-  m_MirrorParameterActive: 0
-  m_CycleOffsetParameterActive: 0
-  m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: c154cf8a9d6c2e54ca8c8debaa262d59, type: 2}
-  m_Tag: 
-  m_SpeedParameter: 
-  m_MirrorParameter: 
-  m_CycleOffsetParameter: 
-  m_TimeParameter: 
 --- !u!1102 &1102378178945707634
 AnimatorState:
   serializedVersion: 5
@@ -605,21 +568,13 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
-<<<<<<< HEAD
 --- !u!1102 &1102403678981145316
-=======
---- !u!1102 &1102489059401614596
->>>>>>> PeterNew
 AnimatorState:
   serializedVersion: 5
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-<<<<<<< HEAD
   m_Name: chrisstirbtohnebeine
-=======
-  m_Name: "Mother\xB4s Coffee"
->>>>>>> PeterNew
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -632,7 +587,6 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-<<<<<<< HEAD
   m_Motion: {fileID: 7400000, guid: af15d9bd3651b104d9398979e2101159, type: 2}
   m_Tag: 
   m_SpeedParameter: 
@@ -659,9 +613,6 @@ AnimatorState:
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
   m_Motion: {fileID: 7400000, guid: fbbf926f2f8ff694a8248369d7a0b642, type: 2}
-=======
-  m_Motion: {fileID: 7400000, guid: ae9b8affb3d6ef643849076576cfe9c5, type: 2}
->>>>>>> PeterNew
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -742,31 +693,6 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
---- !u!1102 &1102505558161107694
-AnimatorState:
-  serializedVersion: 5
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: Anmutig Anschleichen
-  m_Speed: 1
-  m_CycleOffset: 0
-  m_Transitions: []
-  m_StateMachineBehaviours: []
-  m_Position: {x: 50, y: 50, z: 0}
-  m_IKOnFeet: 0
-  m_WriteDefaultValues: 1
-  m_Mirror: 0
-  m_SpeedParameterActive: 0
-  m_MirrorParameterActive: 0
-  m_CycleOffsetParameterActive: 0
-  m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: a8622e6d8dc73dc409964a1230358ad3, type: 2}
-  m_Tag: 
-  m_SpeedParameter: 
-  m_MirrorParameter: 
-  m_CycleOffsetParameter: 
-  m_TimeParameter: 
 --- !u!1102 &1102506846879408788
 AnimatorState:
   serializedVersion: 5
@@ -787,31 +713,6 @@ AnimatorState:
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
   m_Motion: {fileID: 7400000, guid: 6b887fef1505c6e4d8e50dfcce75315e, type: 2}
-  m_Tag: 
-  m_SpeedParameter: 
-  m_MirrorParameter: 
-  m_CycleOffsetParameter: 
-  m_TimeParameter: 
---- !u!1102 &1102508699550050848
-AnimatorState:
-  serializedVersion: 5
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: Balanced Blend
-  m_Speed: 1
-  m_CycleOffset: 0
-  m_Transitions: []
-  m_StateMachineBehaviours: []
-  m_Position: {x: 50, y: 50, z: 0}
-  m_IKOnFeet: 0
-  m_WriteDefaultValues: 1
-  m_Mirror: 0
-  m_SpeedParameterActive: 0
-  m_MirrorParameterActive: 0
-  m_CycleOffsetParameterActive: 0
-  m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 19187e8f5c35cdc49be4d5d247b833f3, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -1301,7 +1202,6 @@ AnimatorStateMachine:
     m_Position: {x: 144, y: 456, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102896474461872628}
-<<<<<<< HEAD
     m_Position: {x: 1056, y: 324, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102870603226046892}
@@ -1336,24 +1236,6 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: 1102403678981145316}
     m_Position: {x: 754, y: 130, z: 0}
-=======
-    m_Position: {x: 822.41736, y: 482.73703, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 1102505558161107694}
-    m_Position: {x: 857.41736, y: 547.73706, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 1102350688110711810}
-    m_Position: {x: 892.41736, y: 612.73706, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 1102489059401614596}
-    m_Position: {x: 927.41736, y: 677.73706, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 1102508699550050848}
-    m_Position: {x: 962.41736, y: 742.73706, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 1102127754845932664}
-    m_Position: {x: 997.41736, y: 807.73706, z: 0}
->>>>>>> PeterNew
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []

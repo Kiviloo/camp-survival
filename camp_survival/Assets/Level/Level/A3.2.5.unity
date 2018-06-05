@@ -1178,7 +1178,7 @@ GameObject:
   - component: {fileID: 309352154}
   m_Layer: 0
   m_Name: Sibo
-  m_TagString: Untagged
+  m_TagString: Cameras
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1461,7 +1461,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: fliehen
+  m_Text: Fliehen
 --- !u!222 &348768875
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2325,7 +2325,7 @@ RectTransform:
   m_GameObject: {fileID: 464505719}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.16317049, y: 0.14042825, z: 0.14042825}
+  m_LocalScale: {x: 0.07863922, y: 0.14042825, z: 0.14042825}
   m_Children: []
   m_Father: {fileID: 582894467}
   m_RootOrder: 0
@@ -2484,7 +2484,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &513750821
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2920,7 +2920,7 @@ RectTransform:
   m_GameObject: {fileID: 582894466}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.40632, y: 1.6340799, z: 1.6340799}
+  m_LocalScale: {x: 2.918009, y: 1.6340799, z: 1.6340799}
   m_Children:
   - {fileID: 464505720}
   m_Father: {fileID: 1863900072}
@@ -2928,7 +2928,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -156.59998, y: -52}
+  m_AnchoredPosition: {x: 1.5, y: -52}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &582894468
@@ -2983,7 +2983,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 582894470}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1908850816}
+        m_MethodName: onButton3
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &582894470
@@ -4079,7 +4090,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 821737496}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1908850816}
+        m_MethodName: onButton1
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &821737496
@@ -4263,14 +4285,14 @@ RectTransform:
   m_GameObject: {fileID: 872197219}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.16317049, y: 0.14042825, z: 0.14042825}
+  m_LocalScale: {x: 0.12673698, y: 0.14042823, z: 0.14042823}
   m_Children: []
   m_Father: {fileID: 1408722205}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0.000030517578, y: 0.000000298327}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &872197221
@@ -4319,7 +4341,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\xFCberw\xE4ltigen"
+  m_Text: "\xDCberweltigen"
 --- !u!222 &872197223
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6210,7 +6232,7 @@ RectTransform:
   m_GameObject: {fileID: 1408722204}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.40632, y: 1.6340799, z: 1.6340799}
+  m_LocalScale: {x: 1.8105996, y: 1.6340799, z: 1.6340799}
   m_Children:
   - {fileID: 872197220}
   m_Father: {fileID: 1863900072}
@@ -6273,7 +6295,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1408722208}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1908850816}
+        m_MethodName: onButton2
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1408722208
@@ -6955,16 +6988,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff6420840b5d15d4db5ae3de49fc85f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  camera:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  ziel:
-  - {fileID: 1025278820}
-  - {fileID: 1025278820}
-  - {fileID: 1332412102}
-  - {fileID: 1332412102}
+  camera: []
+  ziel: []
 --- !u!114 &1679862356
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7756,6 +7781,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1908850815}
+  - component: {fileID: 1908850816}
   m_Layer: 0
   m_Name: LevelScript
   m_TagString: Untagged
@@ -7776,6 +7802,17 @@ Transform:
   m_Father: {fileID: 724802920}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1908850816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1908850814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61aca24aefdf4e447a7089700757d337, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1914626746
 GameObject:
   m_ObjectHideFlags: 0
@@ -8052,7 +8089,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2028001927
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8674,6 +8711,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efb6f9f426f6cac42929f05dfbf47596, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  activate: 1
+  activate: 0
   timerText: {fileID: 2079472984}
   howLong: 10

@@ -122,3 +122,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Level/Level/A3.4.8.unity
     guid: dda519bf809fec74187024f6135ecc2b
+  - enabled: 1
+    path: Assets/Level/Level/A3.2.4.unity
+    guid: 4a9f872fd9570a1439a9a24f5143fd62
+  - enabled: 1
+    path: Assets/Level/Level/A3.2.5.unity
+    guid: 25ffa888fdd985a4fb91275940d3808f
+  - enabled: 1
+    path: Assets/Level/Level/A3.2.6.unity
+    guid: 3357234ebeb77224abf73ba20030117f
+  - enabled: 1
+    path: Assets/Level/Level/A3.2.7.unity
+    guid: 9c9f829899a2dd84491b0a95dcb0a0f6
+  - enabled: 1
+    path: Assets/Level/Level/A3.2.8.unity
+    guid: 9640f165e2614ed4994ce464757775af
+  - enabled: 1
+    path: Assets/Level/Level/A3.2.9mitAxt.unity
+    guid: de9762f6f38ea9a4db5ad0877c8f882e
+  - enabled: 1
+    path: Assets/Level/Level/A3.2.9ohneAxt - Kopie.unity
+    guid: f5ee78d2d37923647abe86fd3ae2b297
